@@ -10,6 +10,17 @@
 Book | Network | Operating System | Database | Dev | Spring | Question
 
 ## 📝 Book
+오브젝트<br>
+이펙티브 자바<br>
+객체지향의 사실과 오해<br>
+엘레강트 오브젝트<br>
+
+### 읽을 책
+클린코드<br>
+만들면서 배우는 클린 아키텍처<br>
+Real MySQL<br>
+친절한 SQL 튜닝<br>
+대규모 서비스를 지탱하는 기술<br>
 
 ## 📝 Network
 CORS<br>
