@@ -7,7 +7,7 @@
 📚 프로그래밍 도서 내용을 정리합니다.
 
 ## ⚙ Table
-Book | Network | Operating System | Database | Dev | Spring | Question
+Book | Network | Operating System | Database | Dev | Spring | Question | Git | Other
 
 ## 📝 Book
 오브젝트<br>
@@ -28,6 +28,9 @@ CORS<br>
 ## 📝 Operating System
 
 ## 📝 Database
+JPA N+1 문제<br>
+페치 조인<br>
+update 에서 bulk 연산<br>
 
 ## 📝 Dev
 git submodule<br>
@@ -39,3 +42,10 @@ Spring profile<br>
 ## 📝 Question
 라이브러리와 프레임워크의 차이<br>
 상황에 맞는 get, post, put, patch, delete 사용과 경로<br>
+
+## 📝 Git
+git 전략(main 1개만 쓰는 거랑 dev 를 활용하는 차이)<br>
+pr 전략(기본 merge, rebase, squash 차이)<br>
+
+## 📝 Other
+Jira
