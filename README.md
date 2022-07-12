@@ -44,11 +44,17 @@ git submodule<br>
 Jasypt 를 통한 정보 암호화<br>
 
 ## 📝 Spring
+### Spring 이해
+Web Server와 WAS(Web Application Server)에 대하여<br>
+서블릿(Servlet) 이란?<br>
+Filter, Interceptor, AOP 차이<br>
+OncePerRequestFilter와 Filter의 차이<br>
+
+### Spring 기능
 Spring profile<br>
 
-### security
+### Spring 활용
 cookie 처리를 controller 에서 할지 filter 에서 해야할지<br>
-onerequestfilter<br>
 
 ## 📝 Question
 라이브러리와 프레임워크의 차이<br>
