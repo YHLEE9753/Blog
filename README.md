@@ -12,7 +12,7 @@ Book | Network | Operating System | Database | Dev | Spring | Question | Git | O
 ## 📝 Book
 ### 읽은 책
 오브젝트<br>
-이펙티브 자바 - [스터디](https://github.com/orgs/Dev-Prison/repositories)<br>
+이펙티브 자바 - [스터디](https://github.com/Dev-Prison/Effective-Java)<br>
 객체지향의 사실과 오해<br>
 엘레강트 오브젝트<br>
 
