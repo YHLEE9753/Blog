@@ -10,8 +10,9 @@
 Book | Network | Operating System | Database | Dev | Spring | Question | Git | Other
 
 ## 📝 Book
+### 읽은 책
 오브젝트<br>
-이펙티브 자바<br>
+이펙티브 자바 - [스터디](https://github.com/orgs/Dev-Prison/repositories)<br>
 객체지향의 사실과 오해<br>
 엘레강트 오브젝트<br>
 
@@ -21,6 +22,7 @@ Book | Network | Operating System | Database | Dev | Spring | Question | Git | O
 Real MySQL<br>
 친절한 SQL 튜닝<br>
 대규모 서비스를 지탱하는 기술<br>
+IT 엔지니어를 위한 네트워크 입문<br>
 
 ## 📝 Network
 OSI 7 계층<br>

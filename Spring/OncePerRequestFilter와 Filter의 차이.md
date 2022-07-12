@@ -28,3 +28,5 @@ JWT OAUTH 구현을 하던 중 팀원으로 부터 `authenticationfilter` 를 �
 
 > dispatch 되어 불필요하게 filter chain 을 여러번 거칠 수 있기에 사용자의 한번의 요청당 딱 한번만 실행되는 필터를 만들 수 있는 OncePerRequestFilter를 사용하라
 
+## 참고 사이트
+https://minkukjo.github.io/framework/2020/12/18/Spring-142/
