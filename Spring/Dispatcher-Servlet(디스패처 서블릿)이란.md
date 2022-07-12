@@ -47,7 +47,7 @@
 
 ---
 1. 클라이언트의 요청을 디스패처 서블릿이 받음
-![img.png](images/interceptor.png)
+![img.png](../images/interceptor.png)
 - 서블릿 컨텍스트에서 필터를 지나 스프링 컨텍스트에서 디스패치 서블릿이 가장 먼저 요청을 받게 된다.
 - 그 후 interceptor 와 controller 를 거쳐 반환값을 받는다
 - 이때 interceptor 가 controller 로 요청을 위임하지는 않는다(그림의 도식화)
