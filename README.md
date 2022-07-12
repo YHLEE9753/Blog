@@ -46,9 +46,12 @@ Jasypt 를 통한 정보 암호화<br>
 ## 📝 Spring
 ### Spring 이해
 Web Server와 WAS(Web Application Server)에 대하여<br>
-서블릿(Servlet) 이란?<br>
-Filter, Interceptor, AOP 차이<br>
+Dispatcher-Servlet(디스패처 서블릿)이란 ? <br>
+[서블릿(Servlet) 이란?<](https://github.com/YHLEE9753/Blog/blob/main/Spring/%EC%84%9C%EB%B8%94%EB%A6%BF(Servlet)%20%EC%9D%B4%EB%9E%80.md)br>
+Filter, Interceptor<br>
 OncePerRequestFilter와 Filter의 차이<br>
+필터(Filter) 가 스프링 빈 등록과 주입이 가능한 이유<br>
+Spring의 AOP 프록시 구현 방법<br>
 
 ### Spring 기능
 Spring profile<br>
