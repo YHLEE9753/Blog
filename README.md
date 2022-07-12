@@ -23,6 +23,13 @@ Real MySQL<br>
 대규모 서비스를 지탱하는 기술<br>
 
 ## 📝 Network
+OSI 7 계층<br>
+HTTP 의 GET 과 POST 비교<br>
+TCP와 UDP의 비교<br>
+TCP 3 way handshake & 4 way handshake<br>
+TCP/IP 흐름제어 & 혼잡제어<br>
+UDP<br>
+
 CORS<br>
 
 ## 📝 Operating System
@@ -38,6 +45,10 @@ Jasypt 를 통한 정보 암호화<br>
 
 ## 📝 Spring
 Spring profile<br>
+
+### security
+cookie 처리를 controller 에서 할지 filter 에서 해야할지<br>
+onerequestfilter<br>
 
 ## 📝 Question
 라이브러리와 프레임워크의 차이<br>
