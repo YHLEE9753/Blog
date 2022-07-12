@@ -25,7 +25,7 @@ Real MySQL<br>
 IT 엔지니어를 위한 네트워크 입문<br>
 
 ## 📝 Network
-OSI 7 계층<br>
+[OSI 7계층, TCP/IP 4계층]()<br>
 HTTP 의 GET 과 POST 비교<br>
 TCP와 UDP의 비교<br>
 TCP 3 way handshake & 4 way handshake<br>
