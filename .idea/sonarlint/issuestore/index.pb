@@ -13,8 +13,6 @@ D
 code/settings.gradle,c\c\ccb7741443031522690a44aed42d61e16021f659
 ?
 code/.gitignore,f\7\f79a3fad94d3468c560d71ad97913a08a1ea07ee
-G
-Network/OSI 7 계층.md,e\5\e535b8dda05b0acd18e7b7ebabcae6201e5bdff5
 e
 5code/src/main/java/com/yong/code/CodeApplication.java,4\b\4beb45956b6f69165a95e021cfcf7b9728a8be6c
 A

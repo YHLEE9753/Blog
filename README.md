@@ -25,24 +25,27 @@ Real MySQL<br>
 IT 엔지니어를 위한 네트워크 입문<br>
 
 ## 📝 Network
+### 이론
 [OSI 7계층, TCP/IP 4계층](https://github.com/YHLEE9753/Blog/blob/main/Network/OSI%207%EA%B3%84%EC%B8%B5%20TCP%20IP%204%EA%B3%84%EC%B8%B5.md)<br>
 [TCP와 UDP의 비교](https://github.com/YHLEE9753/Blog/blob/main/Network/TCP%EC%99%80%20UDP%EC%9D%98%20%EB%B9%84%EA%B5%90.md)<br>
 [TCP 3 way handshake & 4 way handshake](https://github.com/YHLEE9753/Blog/blob/main/Network/TCP%203%20way%20handshake%20%26%204%20way%20handshake.md)<br>
 [HTTP 의 GET 과 POST 비교](https://github.com/YHLEE9753/Blog/blob/main/Network/HTTP%20%EC%9D%98%20GET%20%EA%B3%BC%20POST%20%EB%B9%84%EA%B5%90.md)<br>
 [TCP/IP 흐름제어 & 혼잡제어](https://github.com/YHLEE9753/Blog/blob/main/Network/TCP%20IP%20%ED%9D%90%EB%A6%84%EC%A0%9C%EC%96%B4%20%26%20%ED%98%BC%EC%9E%A1%EC%A0%9C%EC%96%B4.md)<br>
 
-
-CORS<br>
+### 개발
+CORS 란?<br>
 
 ## 📝 Operating System
 
 ## 📝 Database
-JPA N+1 문제<br>
+### SQL
 페치 조인<br>
 update 에서 bulk 연산<br>
 
+### JPA
+JPA N+1 문제<br>
+
 ## 📝 Dev
-git submodule<br>
 Jasypt 를 통한 정보 암호화<br>
 
 ## 📝 Spring
@@ -68,6 +71,7 @@ cookie 처리를 controller 에서 할지 filter 에서 해야할지<br>
 ## 📝 Git
 git 전략(main 1개만 쓰는 거랑 dev 를 활용하는 차이)<br>
 pr 전략(기본 merge, rebase, squash 차이)<br>
+git submodule<br>
 
 ## 📝 Other
 Jira
