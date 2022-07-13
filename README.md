@@ -59,6 +59,7 @@ Web Server와 WAS(Web Application Server)에 대하여<br>
 Spring의 AOP 프록시 구현 방법<br>
 
 ### Spring 기능
+Spring 에서 CORS 설정하기<br>
 Spring profile<br>
 
 ### Spring 활용
