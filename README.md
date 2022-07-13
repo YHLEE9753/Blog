@@ -33,7 +33,7 @@ IT 엔지니어를 위한 네트워크 입문<br>
 [TCP/IP 흐름제어 & 혼잡제어](https://github.com/YHLEE9753/Blog/blob/main/Network/TCP%20IP%20%ED%9D%90%EB%A6%84%EC%A0%9C%EC%96%B4%20%26%20%ED%98%BC%EC%9E%A1%EC%A0%9C%EC%96%B4.md)<br>
 
 ### 개발
-CORS 란?<br>
+[CORS 란?](https://github.com/YHLEE9753/Blog/blob/main/Network/CORS%20%EB%9E%80.md)<br>
 
 ## 📝 Operating System
 
