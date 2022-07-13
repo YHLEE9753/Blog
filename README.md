@@ -29,7 +29,6 @@ IT 엔지니어를 위한 네트워크 입문<br>
 [OSI 7계층, TCP/IP 4계층](https://github.com/YHLEE9753/Blog/blob/main/Network/OSI%207%EA%B3%84%EC%B8%B5%20TCP%20IP%204%EA%B3%84%EC%B8%B5.md)<br>
 [TCP와 UDP의 비교](https://github.com/YHLEE9753/Blog/blob/main/Network/TCP%EC%99%80%20UDP%EC%9D%98%20%EB%B9%84%EA%B5%90.md)<br>
 [TCP 흐름제어 혼합제어(Gyoogle 출처)](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Computer%20Science/Network/TCP%20(%ED%9D%90%EB%A6%84%EC%A0%9C%EC%96%B4%ED%98%BC%EC%9E%A1%EC%A0%9C%EC%96%B4).md#tcp-%ED%9D%90%EB%A6%84%EC%A0%9C%EC%96%B4%ED%98%BC%EC%9E%A1%EC%A0%9C%EC%96%B4)<br>
-[HTTP 의 GET 과 POST 비교](https://github.com/YHLEE9753/Blog/blob/main/Network/HTTP%20%EC%9D%98%20GET%20%EA%B3%BC%20POST%20%EB%B9%84%EA%B5%90.md)<br>
 
 ### 개발
 [CORS 란?](https://github.com/YHLEE9753/Blog/blob/main/Network/CORS%20%EB%9E%80.md)<br>
