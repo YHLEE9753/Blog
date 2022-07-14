@@ -7,7 +7,7 @@
 📚 프로그래밍 도서 내용을 정리합니다.
 
 ## ⚙ Table
-Book | Network | Operating System | Database | Dev | Spring | Question | Git | Other
+Book | Network | Operating System | Database | Querydsl| Dev | Spring | Question | Git | AWS | Question | Other
 
 ## 📝 Book
 ### 읽은 책
@@ -32,7 +32,6 @@ IT 엔지니어를 위한 네트워크 입문<br>
 
 ### 개발
 [CORS 란?](https://github.com/YHLEE9753/Blog/blob/main/Network/CORS%20%EB%9E%80.md)<br>
-Flyway 를 사용한 데이터베이스 형상관리<br>
 
 ## 📝 Operating System
 
@@ -49,6 +48,7 @@ Offset & Cursor<br>
 
 ## 📝 Dev
 [Jasypt 를 통한 정보 암호화](https://github.com/YHLEE9753/Blog/blob/main/Dev/Jasypt%20%EB%A5%BC%20%ED%86%B5%ED%95%9C%20%EC%A0%95%EB%B3%B4%20%EC%95%94%ED%98%B8%ED%99%94.md)<br>
+Flyway 를 사용한 데이터베이스 형상관리<br>
 
 ## 📝 Spring
 ### Spring 이해
@@ -78,10 +78,10 @@ pr 전략(기본 merge, rebase, squash 차이)<br>
 [리눅스 명령어](https://github.com/YHLEE9753/Blog/blob/main/AWS/%EB%A6%AC%EB%88%85%EC%8A%A4%20%EB%AA%85%EB%A0%B9%EC%96%B4.md)<br>
 [EC2 생성, 탄력적IP, 네트워크 인터페이스, vi, shell](https://github.com/YHLEE9753/Blog/blob/main/AWS/EC2%20%EC%83%9D%EC%84%B1%2C%20%ED%83%84%EB%A0%A5%EC%A0%81IP%2C%20%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC%20%EC%9D%B8%ED%84%B0%ED%8E%98%EC%9D%B4%EC%8A%A4%2C%20vi%2C%20shell.md)<br>
 [RDS, S3](https://github.com/YHLEE9753/Blog/blob/main/AWS/RDS%2C%20S3.md)<br>
-[CloudWatch, ELB, lambda]()<br>
-[CI/CD, Elastic-beanstalk]()<br>
-[Dokcer, VPC, IAM]()<br>
-[Document DB, CI/CD 에시]()<br>
+[CloudWatch, ELB, lambda](https://github.com/YHLEE9753/Blog/blob/main/AWS/CloudWatch%2C%20ELB%2C%20lambda.md)<br>
+[CI/CD, Elastic-beanstalk](https://github.com/YHLEE9753/Blog/blob/main/AWS/CI%20CD%2C%20Elastic-beanstalk.md)<br>
+[Dokcer, VPC, IAM](https://github.com/YHLEE9753/Blog/blob/main/AWS/Dokcer%2C%20VPC%2C%20IAM.md)<br>
+[Document DB, CI/CD 에시](https://github.com/YHLEE9753/Blog/blob/main/AWS/Document%20DB%2C%20CI%20CD%20%EC%97%90%EC%8B%9C.md)<br>
 
 ## 📝 Question
 라이브러리와 프레임워크의 차이<br>
