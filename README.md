@@ -44,7 +44,7 @@ update 에서 bulk 연산<br>
 JPA N+1 문제<br>
 
 ## 📝 Dev
-Jasypt 를 통한 정보 암호화<br>
+[Jasypt 를 통한 정보 암호화](https://github.com/YHLEE9753/Blog/blob/main/Dev/Jasypt%20%EB%A5%BC%20%ED%86%B5%ED%95%9C%20%EC%A0%95%EB%B3%B4%20%EC%95%94%ED%98%B8%ED%99%94.md)<br>
 
 ## 📝 Spring
 ### Spring 이해

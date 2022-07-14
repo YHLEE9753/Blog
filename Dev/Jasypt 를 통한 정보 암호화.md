@@ -106,3 +106,23 @@ decrypt input=“복호화할 값” password=“키 값” algorithm=“적용�
 
 ### private 한 레포지토리에 저장
 yaml 파일을 github 의 submodule 에 적용시켜 권한이 있는 관리자만 접근할 수 있는곳에 보관한다.
+
+### 도커로 실행 시 환경 변수 지정
+```docker
+docker run 실행시 환경변수를 지정하면 된다.
+sudo docker run -it --name 컨테이너이름 -d -e password=비밀번호 -p PORT:PORT 이미지명
+
+Dockerfile 엔트리 포인트 구성
+ENTRYPOINT ["java","-jar","-Djasypt.encryptor.password=비밀번호","./Jar파일이름.jar"]
+```
+
+## 참고 사이트
+https://emgc.tistory.com/137
+
+https://devlifetestcase.tistory.com/9
+
+https://kitty-geno.tistory.com/160
+
+https://www.kurien.net/post/view/38
+
+https://velog.io/@rnjsals1575/Jasypt%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%9C-%EB%AF%BC%EA%B0%90%EC%A0%95%EB%B3%B4-%EC%95%94%ED%98%B8%ED%99%94
