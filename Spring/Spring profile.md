@@ -108,6 +108,48 @@ spring.profiles.active=tiger # 오류발생
 
 - 모든 설정 파일에 같은 속성이 있다면, "application-test.yml" 에 설정된 속성이 앞선 설정 데이터 파일들을 override하여 적용된다.
 
+## 9. 실제 적용 예시
+### application.yml
+
+```yaml
+spring:
+  profiles:
+    active: local
+    group:
+      local: local, common
+      prod: prod, common
+```
+### application-common.yml
+```yaml
+spring:
+  application:
+    name: hoon
+```
+### application-local.yml
+```yaml
+spring:
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: url
+    username: username
+    password: password
+
+  jpa:
+    database: mysql
+    hibernate:
+      ddl-auto: create-drop
+    properties:
+      hibernate:
+        dialect: org.hibernate.dialect.MySQL8Dialect
+
+  flyway:
+    enabled: false
+
+server:
+  port: 8080
+
+```
+
 ## 참고 사이트
 https://docs.spring.io/spring-boot/docs/current/reference/html/features.html#features.profiles
 

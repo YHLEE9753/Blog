@@ -62,7 +62,7 @@ Spring의 AOP 프록시 구현 방법<br>
 
 ### Spring 기능
 [Spring 에서 CORS 설정하기](https://github.com/YHLEE9753/Blog/blob/main/Spring/Spring%20%EC%97%90%EC%84%9C%20CORS%20%EC%84%A4%EC%A0%95%ED%95%98%EA%B8%B0.md)<br>
-Spring profile<br>
+[Spring profile](https://github.com/YHLEE9753/Blog/blob/main/Spring/Spring%20profile.md)<br>
 Logback<br>
 
 ### Spring 활용
