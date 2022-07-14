@@ -73,6 +73,12 @@ git 전략(main 1개만 쓰는 거랑 dev 를 활용하는 차이)<br>
 pr 전략(기본 merge, rebase, squash 차이)<br>
 [git submodule](https://github.com/YHLEE9753/Blog/blob/main/Git/git%20submodule.md)<br>
 
+## 📝 AWS
+### 기본
+리눅스 명령어<br>
+EC2 생성, 탄력적IP, 네트워크 인터페이스, vi, shell<br>
+RDS, S3<br>
+
 ## 📝 Question
 라이브러리와 프레임워크의 차이<br>
 상황에 맞는 get, post, put, patch, delete 사용과 경로<br>
