@@ -71,7 +71,7 @@ cookie 처리를 controller 에서 할지 filter 에서 해야할지<br>
 ## 📝 Git
 git 전략(main 1개만 쓰는 거랑 dev 를 활용하는 차이)<br>
 pr 전략(기본 merge, rebase, squash 차이)<br>
-git submodule<br>
+[git submodule](https://github.com/YHLEE9753/Blog/blob/main/Git/git%20submodule.md)<br>
 
 ## 📝 Question
 라이브러리와 프레임워크의 차이<br>
