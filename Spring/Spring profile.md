@@ -149,7 +149,24 @@ server:
   port: 8080
 
 ```
+### application-test.yml
 
+```jsx
+spring:
+  profiles:
+    active: test
+    include: common
+
+  datasource:
+    driver-class-name: org.h2.Driver
+    url: jdbc:h2:mem:test
+    username: sa
+    password:
+
+  h2:
+    console:
+      enabled: true
+```
 ## 참고 사이트
 https://docs.spring.io/spring-boot/docs/current/reference/html/features.html#features.profiles
 
