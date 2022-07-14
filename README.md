@@ -32,6 +32,7 @@ IT 엔지니어를 위한 네트워크 입문<br>
 
 ### 개발
 [CORS 란?](https://github.com/YHLEE9753/Blog/blob/main/Network/CORS%20%EB%9E%80.md)<br>
+Flyway 를 사용한 데이터베이스 형상관리<br>
 
 ## 📝 Operating System
 
@@ -42,6 +43,9 @@ update 에서 bulk 연산<br>
 
 ### JPA
 JPA N+1 문제<br>
+Offset & Cursor<br>
+
+## 📝 Querydsl
 
 ## 📝 Dev
 [Jasypt 를 통한 정보 암호화](https://github.com/YHLEE9753/Blog/blob/main/Dev/Jasypt%20%EB%A5%BC%20%ED%86%B5%ED%95%9C%20%EC%A0%95%EB%B3%B4%20%EC%95%94%ED%98%B8%ED%99%94.md)<br>
@@ -59,19 +63,20 @@ Spring의 AOP 프록시 구현 방법<br>
 ### Spring 기능
 [Spring 에서 CORS 설정하기](https://github.com/YHLEE9753/Blog/blob/main/Spring/Spring%20%EC%97%90%EC%84%9C%20CORS%20%EC%84%A4%EC%A0%95%ED%95%98%EA%B8%B0.md)<br>
 Spring profile<br>
+Logback<br>
 
 ### Spring 활용
 cookie 처리를 controller 에서 할지 filter 에서 해야할지<br>
-
-## 📝 Question
-라이브러리와 프레임워크의 차이<br>
-상황에 맞는 get, post, put, patch, delete 사용과 경로<br>
-Url 단축<br>
 
 ## 📝 Git
 git 전략(main 1개만 쓰는 거랑 dev 를 활용하는 차이)<br>
 pr 전략(기본 merge, rebase, squash 차이)<br>
 git submodule<br>
+
+## 📝 Question
+라이브러리와 프레임워크의 차이<br>
+상황에 맞는 get, post, put, patch, delete 사용과 경로<br>
+Url 단축<br>
 
 ## 📝 Other
 Jira
