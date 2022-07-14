@@ -75,9 +75,10 @@ pr 전략(기본 merge, rebase, squash 차이)<br>
 
 ## 📝 AWS
 ### 기본
-리눅스 명령어<br>
-EC2 생성, 탄력적IP, 네트워크 인터페이스, vi, shell<br>
-RDS, S3<br>
+[리눅스 명령어](https://github.com/YHLEE9753/Blog/blob/main/AWS/%EB%A6%AC%EB%88%85%EC%8A%A4%20%EB%AA%85%EB%A0%B9%EC%96%B4.md)<br>
+[EC2 생성, 탄력적IP, 네트워크 인터페이스, vi, shell](https://github.com/YHLEE9753/Blog/blob/main/AWS/EC2%20%EC%83%9D%EC%84%B1%2C%20%ED%83%84%EB%A0%A5%EC%A0%81IP%2C%20%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC%20%EC%9D%B8%ED%84%B0%ED%8E%98%EC%9D%B4%EC%8A%A4%2C%20vi%2C%20shell.md)<br>
+[RDS, S3](https://github.com/YHLEE9753/Blog/blob/main/AWS/RDS%2C%20S3.md)<br>
+[CloudWatch, ELB, lambda]()
 
 ## 📝 Question
 라이브러리와 프레임워크의 차이<br>
