@@ -27,8 +27,6 @@ j
 :Spring/Dispatcher-Servlet(디스패처 서블릿)이란.md,2\6\2676696e4a4468a82a5fb712a8aa177655726935
 Y
 )Spring/Spring 에서 CORS 설정하기.md,a\9\a906e2438f1386ae1e60ea358fd548dd214a55c0
-U
-%Network/OSI 7계층 TCP IP 4계층.md,6\5\651dfa55d67d9f1e3340383976f4c8f04cb31177
 C
 Network/CORS 란.md,9\7\97172b8794819f149a93e2b19959d067ee116ec0
 Y
@@ -39,3 +37,15 @@ T
 $Spring/Filter, Interceptor 차이.md,e\f\ef7d776022af5f962095b10f1bf4ebc25247fb9d
 O
 Network/TCP와 UDP의 비교.md,7\9\79f89894c7f9e82b951afbc3d11c3f969d90a7cc
+D
+Git/git submodule.md,7\1\7134f8fef5da06a8d89f09ff3d908d0097809a4a
+w
+GAWS/EC2 생성, 탄력적IP, 네트워크 인터페이스, vi, shell.md,0\9\0982214599e0218f85dbaf9e7a18817210238320
+J
+AWS/리눅스 명령어.md,f\0\f062903d789f882f099058765bdd03c3c1a42076
+P
+ AWS/Document DB, CI CD 에시.md,0\5\05d549f6b3f2e33daf48361c98eae97f4cab871a
+O
+AWS/CI CD, Elastic-beanstalk.md,7\3\73d352a7210ba8d919585ba0b5594f79db45b496
+G
+AWS/Dokcer, VPC, IAM.md,6\2\629a38148a2f34359b189d3038362e83164165fc
