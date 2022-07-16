@@ -50,6 +50,8 @@ IT 엔지니어를 위한 네트워크 입문<br>
 update 에서 bulk 연산<br>
 
 ### JPA
+[속성 컨텍스트(Persistence Context) - 엔티티 생명주기와 기능들]()
+[OneToOne 관계는 과연 지연로딩이 되는가?]()
 JPA N+1 문제<br>
 Offset & Cursor<br>
 
