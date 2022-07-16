@@ -59,7 +59,6 @@ Web Server와 WAS(Web Application Server)에 대하여<br>
 [서블릿(Servlet) 이란?](https://github.com/YHLEE9753/Blog/blob/main/Spring/%EC%84%9C%EB%B8%94%EB%A6%BF(Servlet)%20%EC%9D%B4%EB%9E%80.md) <br>
 [Dispatcher-Servlet(디스패처 서블릿)이란?](https://github.com/YHLEE9753/Blog/blob/main/Spring/Dispatcher-Servlet(%EB%94%94%EC%8A%A4%ED%8C%A8%EC%B2%98%20%EC%84%9C%EB%B8%94%EB%A6%BF)%EC%9D%B4%EB%9E%80.md) <br>
 [Filter, Interceptor 차이](https://github.com/YHLEE9753/Blog/blob/main/Spring/Filter%2C%20Interceptor%20%EC%B0%A8%EC%9D%B4.md)<br>
-[OncePerRequestFilter와 Filter의 차이](https://github.com/YHLEE9753/Blog/blob/main/Spring/OncePerRequestFilter%EC%99%80%20Filter%EC%9D%98%20%EC%B0%A8%EC%9D%B4.md)<br>
 필터(Filter) 가 스프링 빈 등록과 주입이 가능한 이유<br>
 Spring의 AOP 프록시 구현 방법<br>
 
@@ -70,6 +69,12 @@ Logback<br>
 
 ### Spring 활용
 cookie 처리를 controller 에서 할지 filter 에서 해야할지<br>
+
+### Security
+[OncePerRequestFilter와 Filter의 차이](https://github.com/YHLEE9753/Blog/blob/main/Spring/OncePerRequestFilter%EC%99%80%20Filter%EC%9D%98%20%EC%B0%A8%EC%9D%B4.md)<br>
+depreciated 된 WebSecurityConfigurerAdapter 수정하기<br>
+AuthenticationSuccessHandler 로그인 성공 후 특정 url redirect 방법 : RedirectStrategy<br>
+
 
 ## 📝 Git
 git 전략(main 1개만 쓰는 거랑 dev 를 활용하는 차이)<br>
