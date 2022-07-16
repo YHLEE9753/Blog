@@ -26,9 +26,9 @@ IT 엔지니어를 위한 네트워크 입문<br>
 
 ## 📝 Architecture
 ### Layered Architecture 
-[왜 layer 마다 dto 와 converter 를 두어야 할까?]()
-[controller 와 service 에서 의존성 관리는 누구의 책임일까?]()
-[조회로직은 전부 만들어야 할까?]()
+[왜 layer 마다 dto 와 converter 를 두어야 할까?](https://github.com/YHLEE9753/Blog/blob/main/Architecture/%EC%99%9C%20layer%20%EB%A7%88%EB%8B%A4%20dto%20%EC%99%80%20converter%20%EB%A5%BC%20%EB%91%90%EC%96%B4%EC%95%BC%20%ED%95%A0%EA%B9%8C.md)
+[controller 와 service 에서 의존성 관리는 누구의 책임일까?](https://github.com/YHLEE9753/Blog/blob/main/Architecture/controller%20%EC%99%80%20service%20%EC%97%90%EC%84%9C%20%EC%9D%98%EC%A1%B4%EC%84%B1%20%EA%B4%80%EB%A6%AC%EB%8A%94%20%EB%88%84%EA%B5%AC%EC%9D%98%20%EC%B1%85%EC%9E%84%EC%9D%BC%EA%B9%8C.md)
+[조회로직은 전부 만들어야 할까?](https://github.com/YHLEE9753/Blog/blob/main/Architecture/%EC%A1%B0%ED%9A%8C%EB%A1%9C%EC%A7%81%EC%9D%80%20%EC%A0%84%EB%B6%80%20%EB%A7%8C%EB%93%A4%EC%96%B4%EC%95%BC%20%ED%95%A0%EA%B9%8C.md)
 
 ## 📝 Network
 ### 이론
@@ -85,7 +85,7 @@ Logback<br>
 cookie 처리를 controller 에서 할지 filter 에서 해야할지<br>
 
 ### Test & Document
-[Mockito 와 BDDMockito 는 어떻게 구분하여 사용해야 할까?]()
+[Mockito 와 BDDMockito 는 어떻게 구분하여 사용해야 할까?](https://github.com/YHLEE9753/Blog/blob/main/Spring/Mockito%20%EC%99%80%20BDDMockito%20%EB%8A%94%20%EC%96%B4%EB%96%BB%EA%B2%8C%20%EA%B5%AC%EB%B6%84%ED%95%98%EC%97%AC%20%EC%82%AC%EC%9A%A9%ED%95%B4%EC%95%BC%20%ED%95%A0%EA%B9%8C.md)
 
 ## 📝 Git
 git 전략(main 1개만 쓰는 거랑 dev 를 활용하는 차이)<br>
