@@ -120,6 +120,49 @@ git submodule foreach git checkout main
 # 서브 모듈 변경 사항을 update 할때
 git submodule update --remote --merge
 ```
+# 2022/07/17 - 추가 설명
+## 8. gradle 문법을 통한 resource 에 yaml 파일 추가 작업
+- Gradle를 이용해 local에서 submodules의 내용을 빌드 시 가져와야 오류 없이 사용할 수 있다.
+```java
+task copyPrivate(type: Copy) {
+    copy {
+    from './MediGo-Config'
+    include "*.yaml"
+    into 'src/main/resources'
+    }
+}
+```
+- 그 후 profile 의 include 를 통해 해당 yaml 을 사용 yaml 에 추가하여야한다.
+```java
+spring:
+  application:
+    name: medigo
+  profiles:
+    active: local
+    include: config
+```
+- 그후 **반드시!! 해당 yaml 을 gitignore 을 해주어야 한다.**
+- **이 작업이 없으면 데이터가 노출되기때문에 submodule 의 의미가 사라진다**
+- **이 과정을 반드시 잊지 말자!! gitignore 에 추가해라!!**
+```gitignore
+### Submodule ###
+application-config.yaml
+application-config.yal
+```
+
+## 8. CI/CD in Github Action
+```yaml
+- name: Checkout 
+		uses: actions/checkout@v1 
+		with:
+		  token: $ 
+		  submodules: true
+```
+- 를 workflow file에 추가해주면 된다.
+- 추후 실습 과정이 필요하다
+
 
 ## 참고 사이트
 https://git-scm.com/book/ko/v2/Git-%EB%8F%84%EA%B5%AC-%EC%84%9C%EB%B8%8C%EB%AA%A8%EB%93%88
+
+https://choieungi.github.io/posts/git-submodule/

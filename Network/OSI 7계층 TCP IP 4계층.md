@@ -25,9 +25,11 @@
   - HTTP
   - SMTP
   - FTP
+
 ### 6계층 : 표현 계층(Presentatoin Layer)
 - 인코딩, 암호화
 - 데이터 단위 : Message
+
 ### 5계층 : 세션 계층(Session Layer)
 - 통신을 관리
   - duplex, half-duplex, full dupelx
@@ -35,6 +37,7 @@
 - 데이터 단위 : Message
 - 프로토콜
   - SSL, TLS
+
 ### 4계층 : 전송 계층(Transport Layer)
 - 유저가 데이터를 주고 받을 수 있도록 함
 - 데이터의 신뢰성 검증(시퀀스 넘버 기반)
@@ -106,6 +109,7 @@
 - **전송 주소 : Port**
 - **프로토콜**
   - TCP, UDP,QUIC...
+
 ### 2계층 : 인터넷 계층(Internet Layer)
 - 장치로 부터 받은 네트워크 패킷을 IP 주소로 지정된 목적지로 전송하기 위해 사용되는 계층
 - IPP, ARP, ICMO 등이 있으며 패킷을 수신해야 할 상대의 주소를 지정하여 데이터를 전달한다.
@@ -117,6 +121,7 @@
 - **전송 주소 : IP**
 - **프로토콜**
   - IP, ARP, ICMP...
+
 ### 1계층 : 네트워크 연결 계층(Network Access Layer)
 - 데이터가 네트워크를 통해 어떻게 전송되는지를 물리적으로 정의
   - → 논리주소(IP)가 아닌 물리 주소 (MAC) 사용

@@ -34,7 +34,7 @@ IT 엔지니어를 위한 네트워크 입문<br>
 [CORS 란?](https://github.com/YHLEE9753/Blog/blob/main/Network/CORS%20%EB%9E%80.md)<br>
 
 ### 면접질문
-[Network 면접질문]()<br>
+[Network 면접질문](https://github.com/YHLEE9753/Blog/blob/main/Network/Network%20%EB%A9%B4%EC%A0%91%EC%A7%88%EB%AC%B8.md)<br>
 
 ## 📝 Operating System
 
