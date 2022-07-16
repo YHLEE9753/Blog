@@ -154,6 +154,7 @@ public class SecurityConfiguration {
 ## 5. 추가적인 override 메서드들 적용
 - JDBC 인증, 로컬 등 다양한 변수를 가지는 override 함수들이 존재한다
 - 다름 예시들은 추후 코드 작성중 추가 조사가 필요할때 다음 사이트를 참고해서 적용시키자
+
 [WebSecurityConfigurerAdapter override 함수들을 bean 으로 등록하기](https://spring.io/blog/2022/02/21/spring-security-without-the-websecurityconfigureradapter)
 
 ## 참고 사이트
