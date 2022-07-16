@@ -7,7 +7,7 @@
 📚 프로그래밍 도서 내용을 정리합니다.
 
 ## ⚙ Table
-Book | Network | Operating System | Database | Querydsl| Dev | Spring | Question | Git | AWS | Question | Other
+Architecture | Book | Network | Operating System | Database | Querydsl| Dev | Spring | Question | Git | AWS | Question | Other
 
 ## 📝 Book
 ### 읽은 책
@@ -23,6 +23,12 @@ Real MySQL<br>
 친절한 SQL 튜닝<br>
 대규모 서비스를 지탱하는 기술<br>
 IT 엔지니어를 위한 네트워크 입문<br>
+
+## 📝 Architecture
+### Layered Architecture 
+[왜 layer 마다 dto 와 converter 를 두어야 할까?]()
+[controller 와 service 에서 의존성 관리는 누구의 책임일까?]()
+[조회로직은 전부 만들어야 할까?]()
 
 ## 📝 Network
 ### 이론
@@ -77,6 +83,9 @@ Logback<br>
 
 ### Spring 활용
 cookie 처리를 controller 에서 할지 filter 에서 해야할지<br>
+
+### Test & Document
+[Mockito 와 BDDMockito 는 어떻게 구분하여 사용해야 할까?]()
 
 ## 📝 Git
 git 전략(main 1개만 쓰는 거랑 dev 를 활용하는 차이)<br>
