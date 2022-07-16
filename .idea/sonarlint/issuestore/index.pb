@@ -17,18 +17,12 @@ e
 5code/src/main/java/com/yong/code/CodeApplication.java,4\b\4beb45956b6f69165a95e021cfcf7b9728a8be6c
 A
 code/build.gradle,2\0\20c6c864ccb0a342abb2ce5fb89f88322bd51ed0
-S
-#Spring/서블릿(Servlet) 이란.md,9\6\9674bfb781138b05a5c14f6ab79812abbf6d02c9
 
 OSpring/필터(Filter) 가 스프링 빈 등록과 주입이 가능한 이유.md,6\6\66299c1c8b4b2d5d4368dafce21483ba665eee6e
 b
 2Spring/OncePerRequestFilter와 Filter의 차이.md,6\c\6cff0b3d05c9ede5e070baea23b5a17076ffd7ce
-Y
-)Spring/Spring 에서 CORS 설정하기.md,a\9\a906e2438f1386ae1e60ea358fd548dd214a55c0
 C
 Network/CORS 란.md,9\7\97172b8794819f149a93e2b19959d067ee116ec0
-H
-Spring/Spring profile.md,3\2\329bc1b6fe6e2b9b96dea729f4409b8503bacfab
 T
 $Spring/Filter, Interceptor 차이.md,e\f\ef7d776022af5f962095b10f1bf4ebc25247fb9d
 w
@@ -45,3 +39,5 @@ N
 AWS/CloudWatch, ELB, lambda.md,8\4\84ffa7c1a8be56567162c1b5937d6c2ec5371d54
 >
 AWS/RDS, S3.md,e\b\eb6be56a20c7fdf450cbe37e7123c9b4e5d097e2
+j
+:Spring/Dispatcher-Servlet(디스패처 서블릿)이란.md,2\6\2676696e4a4468a82a5fb712a8aa177655726935

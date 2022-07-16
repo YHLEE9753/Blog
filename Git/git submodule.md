@@ -44,7 +44,7 @@ application-config.yaml
 ```
 - push 후 repository 확인 결과 데이터가 올라간걸 볼 수 있다. 즉 gitignore 이 적용되지않는다.
 - 하지만 권한이 없는 유저 접근 시 private 접근 권한이 없기 때문에 404 에러가 뜨는 것을 확인할 수 있다.
-- 따라서 해당 작업은 불필요하다 생각된다.
+- ~~따라서 해당 작업은 불필요하다 생각된다.~~ 필요하다. 뒤쪽에서 추가서술
 
 6. 파일을 commit 한다
 ![img.png](../images/submodule4.png)

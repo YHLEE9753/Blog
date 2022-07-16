@@ -65,16 +65,18 @@ Spring의 AOP 프록시 구현 방법<br>
 ### Spring 기능
 [Spring 에서 CORS 설정하기](https://github.com/YHLEE9753/Blog/blob/main/Spring/Spring%20%EC%97%90%EC%84%9C%20CORS%20%EC%84%A4%EC%A0%95%ED%95%98%EA%B8%B0.md)<br>
 [Spring profile](https://github.com/YHLEE9753/Blog/blob/main/Spring/Spring%20profile.md)<br>
+Yaml의 Propery 바인딩<br>
 Logback<br>
+
+
+### Security
+Spring Security - Lambda DSL
+[OncePerRequestFilter와 Filter의 차이](https://github.com/YHLEE9753/Blog/blob/main/Spring/OncePerRequestFilter%EC%99%80%20Filter%EC%9D%98%20%EC%B0%A8%EC%9D%B4.md)<br>
+[depreciated 된 WebSecurityConfigurerAdapter 수정하기](https://github.com/YHLEE9753/Blog/blob/main/Spring/depreciated%20%EB%90%9C%20WebSecurityConfigurerAdapter%20%EC%88%98%EC%A0%95%ED%95%98%EA%B8%B0.md)<br>
+[AuthenticationSuccessHandler 로그인 성공 후 특정 url redirect 방법 : RedirectStrategy](https://github.com/YHLEE9753/Blog/blob/main/Spring/AuthenticationSuccessHandler%20%EB%A1%9C%EA%B7%B8%EC%9D%B8%20%EC%84%B1%EA%B3%B5%20%ED%9B%84%20%ED%8A%B9%EC%A0%95%20url%20redirect%20%EB%B0%A9%EB%B2%95%20%20RedirectStrategy.md)<br>
 
 ### Spring 활용
 cookie 처리를 controller 에서 할지 filter 에서 해야할지<br>
-
-### Security
-[OncePerRequestFilter와 Filter의 차이](https://github.com/YHLEE9753/Blog/blob/main/Spring/OncePerRequestFilter%EC%99%80%20Filter%EC%9D%98%20%EC%B0%A8%EC%9D%B4.md)<br>
-depreciated 된 WebSecurityConfigurerAdapter 수정하기<br>
-AuthenticationSuccessHandler 로그인 성공 후 특정 url redirect 방법 : RedirectStrategy<br>
-
 
 ## 📝 Git
 git 전략(main 1개만 쓰는 거랑 dev 를 활용하는 차이)<br>
