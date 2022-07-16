@@ -70,9 +70,9 @@ Logback<br>
 
 
 ### Security
-Spring Security - Lambda DSL
-[OncePerRequestFilter와 Filter의 차이](https://github.com/YHLEE9753/Blog/blob/main/Spring/OncePerRequestFilter%EC%99%80%20Filter%EC%9D%98%20%EC%B0%A8%EC%9D%B4.md)<br>
+[Spring Security - Lambda DSL](https://github.com/YHLEE9753/Blog/blob/main/Spring/Spring%20Security%20-%20Lambda%20DSL.md)<br>
 [depreciated 된 WebSecurityConfigurerAdapter 수정하기](https://github.com/YHLEE9753/Blog/blob/main/Spring/depreciated%20%EB%90%9C%20WebSecurityConfigurerAdapter%20%EC%88%98%EC%A0%95%ED%95%98%EA%B8%B0.md)<br>
+[OncePerRequestFilter와 Filter의 차이](https://github.com/YHLEE9753/Blog/blob/main/Spring/OncePerRequestFilter%EC%99%80%20Filter%EC%9D%98%20%EC%B0%A8%EC%9D%B4.md)<br>
 [AuthenticationSuccessHandler 로그인 성공 후 특정 url redirect 방법 : RedirectStrategy](https://github.com/YHLEE9753/Blog/blob/main/Spring/AuthenticationSuccessHandler%20%EB%A1%9C%EA%B7%B8%EC%9D%B8%20%EC%84%B1%EA%B3%B5%20%ED%9B%84%20%ED%8A%B9%EC%A0%95%20url%20redirect%20%EB%B0%A9%EB%B2%95%20%20RedirectStrategy.md)<br>
 
 ### Spring 활용

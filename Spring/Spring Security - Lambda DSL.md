@@ -117,3 +117,6 @@ public class SecurityConfig {
 - 아예 http 를 전부 붙여서 사용해 보았다.
 - 근데 생각보다 가독성이 안좋아보인다
 - 기존의 방식을 사용하는게 좋을 거 같다.
+
+## 참고 사이트
+https://spring.io/blog/2019/11/21/spring-security-lambda-dsl
