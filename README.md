@@ -103,8 +103,8 @@ pr 전략(기본 merge, rebase, squash 차이)<br>
 [RDS, S3](https://github.com/YHLEE9753/Blog/blob/main/AWS/RDS%2C%20S3.md)<br>
 [CloudWatch, ELB, lambda](https://github.com/YHLEE9753/Blog/blob/main/AWS/CloudWatch%2C%20ELB%2C%20lambda.md)<br>
 [CI/CD, Elastic-beanstalk](https://github.com/YHLEE9753/Blog/blob/main/AWS/CI%20CD%2C%20Elastic-beanstalk.md)<br>
-[Dokcer, VPC, IAM](https://github.com/YHLEE9753/Blog/blob/main/AWS/Dokcer%2C%20VPC%2C%20IAM.md)<br>
-[Document DB, CI/CD 에시](https://github.com/YHLEE9753/Blog/blob/main/AWS/Document%20DB%2C%20CI%20CD%20%EC%97%90%EC%8B%9C.md)<br>
+[Docker, VPC, IAM](https://github.com/YHLEE9753/Blog/blob/main/AWS/Dokcer%2C%20VPC%2C%20IAM.md)<br>
+[Document DB, CI/CD 에시, DevOps](https://github.com/YHLEE9753/Blog/blob/main/AWS/Document%20DB%2C%20CI%20CD%20%EC%97%90%EC%8B%9C.md)<br>
 
 ## 📝 Question
 라이브러리와 프레임워크의 차이<br>

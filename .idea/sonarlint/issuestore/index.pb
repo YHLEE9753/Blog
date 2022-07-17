@@ -29,12 +29,6 @@ w
 GAWS/EC2 생성, 탄력적IP, 네트워크 인터페이스, vi, shell.md,0\9\0982214599e0218f85dbaf9e7a18817210238320
 J
 AWS/리눅스 명령어.md,f\0\f062903d789f882f099058765bdd03c3c1a42076
-P
- AWS/Document DB, CI CD 에시.md,0\5\05d549f6b3f2e33daf48361c98eae97f4cab871a
-O
-AWS/CI CD, Elastic-beanstalk.md,7\3\73d352a7210ba8d919585ba0b5594f79db45b496
-G
-AWS/Dokcer, VPC, IAM.md,6\2\629a38148a2f34359b189d3038362e83164165fc
 >
 AWS/RDS, S3.md,e\b\eb6be56a20c7fdf450cbe37e7123c9b4e5d097e2
 j
@@ -71,3 +65,9 @@ j
 hSpring/AuthenticationSuccessHandler 로그인 성공 후 특정 url redirect 방법  RedirectStrategy.md,6\7\67a82a0d52c3f1b1a39465fcd77ff45aaf0838f7
 �
 ZDatabase/속성 컨텍스트(Persistence Context) - 엔티티 생명주기와 기능들.md,3\a\3adccb9aa2f31993bc65d2673f516fb07d22fde5
+�
+vDatabase/언제 비관적락(pessimistic lock)을 사용하고 언제 낙관적락(optimistic lock)을 사용할까.md,8\a\8a780cb7d82a8422c6accf0e9ab22969d601e804
+N
+AWS/CloudWatch, ELB, lambda.md,8\4\84ffa7c1a8be56567162c1b5937d6c2ec5371d54
+o
+?Database/OneToOne 관계는 과연 지연로딩이 되는가.md,a\a\aac07e5dc8145158589cd3df86182dee964d48e3
