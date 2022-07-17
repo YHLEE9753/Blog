@@ -48,7 +48,7 @@ IT 엔지니어를 위한 네트워크 입문<br>
 ### SQL
 페치 조인<br>
 update 에서 bulk 연산<br>
-언제 비관적락(pessimistic lock)을 사용하고 언제 낙관적락(optimistic lock)을 사용할까?<br>
+[언제 비관적락(pessimistic lock)을 사용하고 언제 낙관적락(optimistic lock)을 사용할까?](https://github.com/YHLEE9753/Blog/blob/main/Database/%EC%96%B8%EC%A0%9C%20%EB%B9%84%EA%B4%80%EC%A0%81%EB%9D%BD(pessimistic%20lock)%EC%9D%84%20%EC%82%AC%EC%9A%A9%ED%95%98%EA%B3%A0%20%EC%96%B8%EC%A0%9C%20%EB%82%99%EA%B4%80%EC%A0%81%EB%9D%BD(optimistic%20lock)%EC%9D%84%20%EC%82%AC%EC%9A%A9%ED%95%A0%EA%B9%8C.md)<br>
 
 
 ### JPA
