@@ -7,7 +7,7 @@ controller url 작성 시 RESTful 하게 작성해보자
 ## 2. REST
 
 ## 3. 7 Rules for REST API URI Design
-1. 소문자를 사용한다
+### 1. 소문자를 사용한다
 
 - 대문자는 때로 문제를 일으키는 경우가 있기 때문에 URI를 작성할 때는 소문자를 선호한다.
 - RFC3986은 체계 및 호스트 구성요소를 제외하고 URI를 대소문자를 구분하여 정의한다.
@@ -23,7 +23,7 @@ http://api.example.com/users/postComments
 http://api.example.com/users/post-comments
 ```
 
-2. 언더바대신 하이픈을 사용한다.
+### 2. 언더바대신 하이픈을 사용한다.
 
 - 가독성을 위해 긴 Path를 표현하는 단어는 하이픈으로 구분하는 것이 좋다.
 - 프로그램의 글자 폰트에 따라서 언더바 문자는 문자가 부분적으로 가려지거나 숨겨질 수 있다. 
@@ -40,7 +40,7 @@ http://restapi.example.com/users/post_comments
 http://restapi.example.com/users/post-comments
 ```
 
-3. URI의 마지막에는 슬래시를 포함하지 않는다.
+### 3. URI의 마지막에는 슬래시를 포함하지 않는다.
 - 후행 슬래쉬는 의미가 전혀 없고 혼란을 야기할 수 있다.
 - 슬래시는 계층을 구분하는 것으로, 마지막에는 사용하지 않는다.
 
@@ -62,7 +62,7 @@ http://restapi.example.com/users/
 http://restapi.example.com/users
 ```
 
-4. 계층관계를 나타낼 때는 슬래시 구분자를 사용해야한다. + 행위는 포함하지 않는다.
+### 4. 계층관계를 나타낼 때는 슬래시 구분자를 사용해야한다. + 행위는 포함하지 않는다.
 - 슬래시 문자는 URI의 경로 부분에서 자원 간의 계층적 관계를 나타내기 위해 사용한다.
 - 행위는 포함하지 않는다.
 - 행위는 URL대신 Method(GET, POST, PUT, DELETE 등))를 사용하여 전달한다.
@@ -77,7 +77,7 @@ POST http://restapi.example.com/users/1/delete-post/1
 DELETE http://restapi.example.com/users/1/posts/1
 ```
 
-5. 파일 확장자는 URI에 포함시키지 않는다.
+### 5. 파일 확장자는 URI에 포함시키지 않는다.
 - 파일 확장자는 URI에 포함하지 말아야한다. 
 - 대신에 Content-Type 이라는 헤더를 통해 전달되는대로 미디어 타입을 사용하여 body의 콘텐츠를 처리하는 방법을 결정한다.
 - Rest API클라이언트는 HTTP에서 제공하는 형식 선택 메커니즘인 Aceept 요청 헤더를 활용하도록 권장해야 한다.
@@ -94,7 +94,7 @@ GET http://restapi.example.com/users/photo
 HTTP/1.1 Host: restapi.example.com Accept: image/jpg
 ```
 
-6. 전달하고자 하는 자원의 명사를 사용하되, 컨트롤 자원을 의미하는 경우 예외적으로 동사를 허용한다.
+### 6. 전달하고자 하는 자원의 명사를 사용하되, 컨트롤 자원을 의미하는 경우 예외적으로 동사를 허용한다.
 
 **BAD**
 ```
@@ -107,7 +107,7 @@ http://restapi.example.com/posts/duplicate
 ```
 
 
-7. URI에 작성되는 영어를 복수형으로 작성한다.
+### 7. URI에 작성되는 영어를 복수형으로 작성한다.
 - 하나의 인스턴스를 복수형으로 표시하는게 영어 문법적으로 맞지 않겟다고 생각할 수도 있지만 
 - URI의 형식을 복수형으로 사용하는 것이 실무에서 많이 사용되고 있다.
 - 관계가 다른 리소스 내에서만 존재할 경우 RESTFUL 원칙은 다음과 같은 지침을 제공한다.
