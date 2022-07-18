@@ -38,6 +38,9 @@ IT 엔지니어를 위한 네트워크 입문<br>
 
 ### 개발
 [CORS 란?](https://github.com/YHLEE9753/Blog/blob/main/Network/CORS%20%EB%9E%80.md)<br>
+JWT 인증의 의미와 refreshToken 위치에 대한 고찰<br>
+get post put delete patch<br>
+
 
 ### 면접질문
 [Network 면접질문](https://github.com/YHLEE9753/Blog/blob/main/Network/Network%20%EB%A9%B4%EC%A0%91%EC%A7%88%EB%AC%B8.md)<br>
@@ -104,7 +107,7 @@ pr 전략(기본 merge, rebase, squash 차이)<br>
 [CloudWatch, ELB, lambda](https://github.com/YHLEE9753/Blog/blob/main/AWS/CloudWatch%2C%20ELB%2C%20lambda.md)<br>
 [CI/CD, Elastic-beanstalk](https://github.com/YHLEE9753/Blog/blob/main/AWS/CI%20CD%2C%20Elastic-beanstalk.md)<br>
 [Docker, IAM, VPC](https://github.com/YHLEE9753/Blog/blob/main/AWS/Dokcer%2C%20VPC%2C%20IAM.md)<br>
-[Document DB, CI/CD 에시, DevOps](https://github.com/YHLEE9753/Blog/blob/main/AWS/Document%20DB%2C%20CI%20CD%20%EC%97%90%EC%8B%9C.md)<br>
+[CI/CD 에시, Document DB, DevOps](https://github.com/YHLEE9753/Blog/blob/main/AWS/Document%20DB%2C%20CI%20CD%20%EC%97%90%EC%8B%9C.md)<br>
 
 ## 📝 Question
 라이브러리와 프레임워크의 차이<br>
