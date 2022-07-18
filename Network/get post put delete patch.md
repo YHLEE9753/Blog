@@ -22,7 +22,9 @@ REST 구성
   - Delete: 데이터 삭제 (DELETE)
 
 > 멱등성 : 동일한 요청을 한 번 보내는 것과 여러 번 연속으로 보내는 것이 같은 효과를 지니고, 서버의 상태도 동일하게 남을 때 해당 HTTP 메서드가 멱등성을 가졌다고 말한다.
+
 > 멱등성 O : GET, HEAD, PUT, DELETE
+
 > 멱등성 X : POST
 
 ### GET
@@ -35,7 +37,7 @@ GET http://localhost:8080/rest/api/v1/user/1
 - POST는 보통 데이터를 추가할 때 사용한다.
 - DB로 생각했을때는 INSERT에 해당
 - 보통 생성 과정이 성공적으로 끝나면, 응답값으로 201 CREATED를 보낸다.
-```
+```json
 POST http://localhost:8080/rest/api/v1/user
 
 {
@@ -49,7 +51,7 @@ POST http://localhost:8080/rest/api/v1/user
 - PUT은 데이터를 수정 할 때 사용한다.(덮어쓰기느낌)
 - DB로 생각했을때는 UPDATE에 해당
 - 위 POST와 동일한 URL로 요청하지만, HTTP 메소드가 다르기 때문에 다르게 동작한다.
-```
+```json
 PUT http://localhost:8080/rest/api/v1/user/{user_id}
 
 예시: PUT http://localhost:8080/rest/api/v1/user/1
@@ -61,7 +63,7 @@ PUT http://localhost:8080/rest/api/v1/user/{user_id}
 ### DELETE
 - DELETE는 데이터를 삭제할 때 사용한다.
 - DB로 생각했을때는 DELETE에 해당
-```
+```json
 DELETE http://localhost:8080/rest/api/v1/user/{user_id}
 
 예시: DELETE http://localhost:8080/rest/api/v1/user/1
@@ -74,7 +76,7 @@ DELETE http://localhost:8080/rest/api/v1/user/{user_id}
 - PUT 요청 시 요청을 일부분만 보낸 경우 나머지는 default 값으로 수정되는 게 원칙이므로, 바뀌지 않는 속성도 모두 보내야 한다.(덮어쓰기느낌)
 - PATCH를 이용하여 특정 부분 변경하는 요청을 보내면, 새롭게 바뀐 부분만 반영되며 나머지는 기존의 데이터가 유지된다.
 
-```
+```json
 PUT /users/1
 {
     "age": 15 
@@ -101,7 +103,7 @@ HTTP/1.1 200 OK
 - 위 코드에서 put 사용하여 age 를 변경할 때 수정된 값만 보내면 보내지 않은 데이터는 null로 변경되어 버린다.
 - 따라서 put 요청시에는 변경되지 않는 데이터도 모두 전달해야 한다.
 
-```
+```json
 PATCH /users/1
 {
 	"age": 15
