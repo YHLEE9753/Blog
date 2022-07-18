@@ -38,8 +38,9 @@ IT 엔지니어를 위한 네트워크 입문<br>
 
 ### 개발
 [CORS 란?](https://github.com/YHLEE9753/Blog/blob/main/Network/CORS%20%EB%9E%80.md)<br>
-JWT 인증의 의미와 refreshToken 위치에 대한 고찰<br>
-get post put delete patch<br>
+[JWT 인증의 의미와 refreshToken 위치에 대한 고찰]()<br>
+[get post put delete patch]()<br>
+[RESTful한 URL]()<br>
 
 
 ### 면접질문
