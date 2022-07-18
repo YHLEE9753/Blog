@@ -40,7 +40,7 @@ IT 엔지니어를 위한 네트워크 입문<br>
 [CORS 란?](https://github.com/YHLEE9753/Blog/blob/main/Network/CORS%20%EB%9E%80.md)<br>
 [JWT 인증의 의미와 refreshToken 위치에 대한 고찰](https://github.com/YHLEE9753/Blog/blob/main/Network/JWT%20%EC%9D%B8%EC%A6%9D%EC%9D%98%20%EC%9D%98%EB%AF%B8%EC%99%80%20refreshToken%20%EC%9C%84%EC%B9%98%EC%97%90%20%EB%8C%80%ED%95%9C%20%EA%B3%A0%EC%B0%B0.md)<br>
 [get post put delete patch](https://github.com/YHLEE9753/Blog/blob/main/Network/get%20post%20put%20delete%20patch.md)<br>
-[RESTful한 URL](https://github.com/YHLEE9753/Blog/blob/main/Network/RESTful%ED%95%9C%20URL.md)<br>
+[RESTful한 URL(7원칙)](https://github.com/YHLEE9753/Blog/blob/main/Network/RESTful%ED%95%9C%20URL.md)<br>
 
 
 ### 면접질문

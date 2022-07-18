@@ -31,8 +31,6 @@ J
 AWS/RDS, S3.md,e\b\eb6be56a20c7fdf450cbe37e7123c9b4e5d097e2
 j
 :Spring/Dispatcher-Servlet(디스패처 서블릿)이란.md,2\6\2676696e4a4468a82a5fb712a8aa177655726935
-O
-Network/TCP와 UDP의 비교.md,7\9\79f89894c7f9e82b951afbc3d11c3f969d90a7cc
 S
 #Spring/서블릿(Servlet) 이란.md,9\6\9674bfb781138b05a5c14f6ab79812abbf6d02c9
 U
