@@ -38,7 +38,6 @@ IT 엔지니어를 위한 네트워크 입문<br>
 
 ### 개발
 [CORS 란?](https://github.com/YHLEE9753/Blog/blob/main/Network/CORS%20%EB%9E%80.md)<br>
-[JWT 인증의 의미와 refreshToken 위치에 대한 고찰](https://github.com/YHLEE9753/Blog/blob/main/Network/JWT%20%EC%9D%B8%EC%A6%9D%EC%9D%98%20%EC%9D%98%EB%AF%B8%EC%99%80%20refreshToken%20%EC%9C%84%EC%B9%98%EC%97%90%20%EB%8C%80%ED%95%9C%20%EA%B3%A0%EC%B0%B0.md)<br>
 [get post put delete patch](https://github.com/YHLEE9753/Blog/blob/main/Network/get%20post%20put%20delete%20patch.md)<br>
 [RESTful한 URL(7원칙)](https://github.com/YHLEE9753/Blog/blob/main/Network/RESTful%ED%95%9C%20URL.md)<br>
 URL 과 URI 의 차이<br>
@@ -89,6 +88,10 @@ Logback<br>
 [OncePerRequestFilter와 Filter의 차이](https://github.com/YHLEE9753/Blog/blob/main/Spring/OncePerRequestFilter%EC%99%80%20Filter%EC%9D%98%20%EC%B0%A8%EC%9D%B4.md)<br>
 [AuthenticationSuccessHandler 로그인 성공 후 특정 url redirect 방법 : RedirectStrategy](https://github.com/YHLEE9753/Blog/blob/main/Spring/AuthenticationSuccessHandler%20%EB%A1%9C%EA%B7%B8%EC%9D%B8%20%EC%84%B1%EA%B3%B5%20%ED%9B%84%20%ED%8A%B9%EC%A0%95%20url%20redirect%20%EB%B0%A9%EB%B2%95%20%20RedirectStrategy.md)<br>
 
+[JWT 인증의 의미]()<br>
+[AccessToken과 RefreshToken의 특징과 위치]()<br>
+
+
 ### Spring 활용
 cookie 처리를 controller 에서 할지 filter 에서 해야할지<br>
 
@@ -97,7 +100,7 @@ cookie 처리를 controller 에서 할지 filter 에서 해야할지<br>
 
 ## 📝 Git
 git 전략(main 1개만 쓰는 거랑 dev 를 활용하는 차이)<br>
-pr 전략(기본 merge, rebase, squash 차이)<br>
+git merge 전략(기본 merge, rebase, squash 차이)<br>
 [git submodule](https://github.com/YHLEE9753/Blog/blob/main/Git/git%20submodule.md)<br>
 
 ## 📝 AWS
