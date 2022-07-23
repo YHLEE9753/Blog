@@ -118,7 +118,15 @@ git merge 전략(기본 merge, rebase, squash 차이)<br>
 [CI/CD 에시, Document DB, DevOps](https://github.com/YHLEE9753/Blog/blob/main/AWS/Document%20DB%2C%20CI%20CD%20%EC%97%90%EC%8B%9C.md)<br>
 
 ## 📝 Java
-[Checked Exception, UnChecked Exception]()
+[Checked Exception, UnChecked Exception](https://github.com/YHLEE9753/Blog/blob/main/Java/Checked%20Exception%2C%20UnChecked%20Exception.md)<br>
+[Generics(1) - 서브클래싱(SubClassing)과 서브타이핑(SubTyping)]()<br>
+[Generics(2) - 공변(Contravariace)과 반공변(Covariance)]()<br>
+[Generics(3) - Generic 타입과 네이밍]()<br>
+[Generics(4) - Raw Type 과 type inference]()<br>
+[Generics(5) - 사용 방식]()<br>
+[record 클래스와 sealed 클래스와 interface(1) - record 클래스]()<br>
+[record 클래스와 sealed 클래스와 interface(2) - sealed 클래스와 interface]()<br>
+
 
 ## 📝 Question
 라이브러리와 프레임워크의 차이<br>
