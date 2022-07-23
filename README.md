@@ -117,6 +117,9 @@ git merge 전략(기본 merge, rebase, squash 차이)<br>
 [Docker, IAM, VPC](https://github.com/YHLEE9753/Blog/blob/main/AWS/Dokcer%2C%20VPC%2C%20IAM.md)<br>
 [CI/CD 에시, Document DB, DevOps](https://github.com/YHLEE9753/Blog/blob/main/AWS/Document%20DB%2C%20CI%20CD%20%EC%97%90%EC%8B%9C.md)<br>
 
+## 📝 Java
+[Checked Exception, UnChecked Exception]()
+
 ## 📝 Question
 라이브러리와 프레임워크의 차이<br>
 상황에 맞는 get, post, put, patch, delete 사용과 경로<br>
