@@ -35,6 +35,9 @@ IT 엔지니어를 위한 네트워크 입문<br>
 [OSI 7계층, TCP/IP 4계층](https://github.com/YHLEE9753/Blog/blob/main/Network/OSI%207%EA%B3%84%EC%B8%B5%20TCP%20IP%204%EA%B3%84%EC%B8%B5.md)<br>
 [TCP와 UDP의 비교](https://github.com/YHLEE9753/Blog/blob/main/Network/TCP%EC%99%80%20UDP%EC%9D%98%20%EB%B9%84%EA%B5%90.md)<br>
 [TCP 흐름제어 혼합제어(Gyoogle 출처)](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Computer%20Science/Network/TCP%20(%ED%9D%90%EB%A6%84%EC%A0%9C%EC%96%B4%ED%98%BC%EC%9E%A1%EC%A0%9C%EC%96%B4).md#tcp-%ED%9D%90%EB%A6%84%EC%A0%9C%EC%96%B4%ED%98%BC%EC%9E%A1%EC%A0%9C%EC%96%B4)<br>
+[HTTP 와 HTTPS]()<br>
+[HTTPS 보안 알고리즘]()<br>
+[TLS and SSL]()<br>
 
 ### 개발
 [CORS 란?](https://github.com/YHLEE9753/Blog/blob/main/Network/CORS%20%EB%9E%80.md)<br>
@@ -88,9 +91,10 @@ Logback<br>
 [OncePerRequestFilter와 Filter의 차이](https://github.com/YHLEE9753/Blog/blob/main/Spring/OncePerRequestFilter%EC%99%80%20Filter%EC%9D%98%20%EC%B0%A8%EC%9D%B4.md)<br>
 [AuthenticationSuccessHandler 로그인 성공 후 특정 url redirect 방법 : RedirectStrategy](https://github.com/YHLEE9753/Blog/blob/main/Spring/AuthenticationSuccessHandler%20%EB%A1%9C%EA%B7%B8%EC%9D%B8%20%EC%84%B1%EA%B3%B5%20%ED%9B%84%20%ED%8A%B9%EC%A0%95%20url%20redirect%20%EB%B0%A9%EB%B2%95%20%20RedirectStrategy.md)<br>
 
+### OAuth2
 [JWT 인증의 의미](https://github.com/YHLEE9753/Blog/blob/main/Spring/JWT%20%EC%9D%B8%EC%A6%9D%EC%9D%98%20%EC%9D%98%EB%AF%B8.md)<br>
 [AccessToken과 RefreshToken의 특징과 위치](https://github.com/YHLEE9753/Blog/blob/main/Spring/AccessToken%EA%B3%BC%20RefreshToken%EC%9D%98%20%ED%8A%B9%EC%A7%95%EA%B3%BC%20%EC%9C%84%EC%B9%98.md)<br>
-
+[redis 활용 - 추가 정리 필요]()<br>
 
 ### Spring 활용
 cookie 처리를 controller 에서 할지 filter 에서 해야할지<br>
