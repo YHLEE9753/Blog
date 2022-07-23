@@ -35,9 +35,9 @@ IT 엔지니어를 위한 네트워크 입문<br>
 [OSI 7계층, TCP/IP 4계층](https://github.com/YHLEE9753/Blog/blob/main/Network/OSI%207%EA%B3%84%EC%B8%B5%20TCP%20IP%204%EA%B3%84%EC%B8%B5.md)<br>
 [TCP와 UDP의 비교](https://github.com/YHLEE9753/Blog/blob/main/Network/TCP%EC%99%80%20UDP%EC%9D%98%20%EB%B9%84%EA%B5%90.md)<br>
 [TCP 흐름제어 혼합제어(Gyoogle 출처)](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Computer%20Science/Network/TCP%20(%ED%9D%90%EB%A6%84%EC%A0%9C%EC%96%B4%ED%98%BC%EC%9E%A1%EC%A0%9C%EC%96%B4).md#tcp-%ED%9D%90%EB%A6%84%EC%A0%9C%EC%96%B4%ED%98%BC%EC%9E%A1%EC%A0%9C%EC%96%B4)<br>
-[HTTP 와 HTTPS]()<br>
-[HTTPS 보안 알고리즘]()<br>
-[TLS and SSL]()<br>
+[HTTP 와 HTTPS](https://github.com/YHLEE9753/Blog/blob/main/Network/http%20%EC%99%80%20https.md)<br>
+[HTTPS 보안 알고리즘](https://github.com/YHLEE9753/Blog/blob/main/Network/https%20%EB%B3%B4%EC%95%88%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98.md)<br>
+[SSL and TLS](https://github.com/YHLEE9753/Blog/blob/main/Network/TLS%20and%20SSL.md)<br>
 
 ### 개발
 [CORS 란?](https://github.com/YHLEE9753/Blog/blob/main/Network/CORS%20%EB%9E%80.md)<br>
@@ -94,7 +94,7 @@ Logback<br>
 ### OAuth2
 [JWT 인증의 의미](https://github.com/YHLEE9753/Blog/blob/main/Spring/JWT%20%EC%9D%B8%EC%A6%9D%EC%9D%98%20%EC%9D%98%EB%AF%B8.md)<br>
 [AccessToken과 RefreshToken의 특징과 위치](https://github.com/YHLEE9753/Blog/blob/main/Spring/AccessToken%EA%B3%BC%20RefreshToken%EC%9D%98%20%ED%8A%B9%EC%A7%95%EA%B3%BC%20%EC%9C%84%EC%B9%98.md)<br>
-[redis 활용 - 추가 정리 필요]()<br>
+[redis 활용 - 추가 정리 필요](https://github.com/YHLEE9753/Blog/blob/main/Spring/redis%20%ED%99%9C%EC%9A%A9.md)<br>
 
 ### Spring 활용
 cookie 처리를 controller 에서 할지 filter 에서 해야할지<br>

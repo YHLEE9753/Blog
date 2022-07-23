@@ -63,8 +63,6 @@ O
 AWS/CI CD, Elastic-beanstalk.md,7\3\73d352a7210ba8d919585ba0b5594f79db45b496
 G
 AWS/Dokcer, VPC, IAM.md,6\2\629a38148a2f34359b189d3038362e83164165fc
-O
-Network/TCP와 UDP의 비교.md,7\9\79f89894c7f9e82b951afbc3d11c3f969d90a7cc
 X
 (AWS/Document DB, CI CD 에시, DevOps.md,e\0\e0b0493ebda05435e17ee93e42226760e0aa116e
 I
