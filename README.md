@@ -119,13 +119,13 @@ git merge 전략(기본 merge, rebase, squash 차이)<br>
 
 ## 📝 Java
 [Checked Exception, UnChecked Exception](https://github.com/YHLEE9753/Blog/blob/main/Java/Checked%20Exception%2C%20UnChecked%20Exception.md)<br>
-[Generics(1) - 서브클래싱(SubClassing)과 서브타이핑(SubTyping)]()<br>
-[Generics(2) - 공변(Contravariace)과 반공변(Covariance)]()<br>
-[Generics(3) - Generic 타입과 네이밍]()<br>
-[Generics(4) - Raw Type 과 type inference]()<br>
-[Generics(5) - 사용 방식]()<br>
-[record 클래스와 sealed 클래스와 interface(1) - record 클래스]()<br>
-[record 클래스와 sealed 클래스와 interface(2) - sealed 클래스와 interface]()<br>
+[Generics(1) - 서브클래싱(SubClassing)과 서브타이핑(SubTyping)](https://github.com/YHLEE9753/Blog/blob/main/Java/Generics(1)%20-%20%EC%84%9C%EB%B8%8C%ED%81%B4%EB%9E%98%EC%8B%B1(SubClassing)%EA%B3%BC%20%EC%84%9C%EB%B8%8C%ED%83%80%EC%9D%B4%ED%95%91(SubTyping).md)<br>
+[Generics(2) - 공변(Contravariace)과 반공변(Covariance)](https://github.com/YHLEE9753/Blog/blob/main/Java/Generics(2)%20-%20%EA%B3%B5%EB%B3%80(Contravariace)%EA%B3%BC%20%EB%B0%98%EA%B3%B5%EB%B3%80(Covariance).md)<br>
+[Generics(3) - Generic 타입과 네이밍](https://github.com/YHLEE9753/Blog/blob/main/Java/Generics(3)%20-%20Generic%20%ED%83%80%EC%9E%85%EA%B3%BC%20%EB%84%A4%EC%9D%B4%EB%B0%8D.md)<br>
+[Generics(4) - Raw Type 과 type inference](https://github.com/YHLEE9753/Blog/blob/main/Java/Generics(4)%20-%20Raw%20Type%20%EA%B3%BC%20type%20inference.md)<br>
+[Generics(5) - 사용 방식](https://github.com/YHLEE9753/Blog/blob/main/Java/Generics(5)%20-%20%EC%82%AC%EC%9A%A9%20%EB%B0%A9%EC%8B%9D.md)<br>
+[record 클래스와 sealed 클래스와 interface(1) - record 클래스](https://github.com/YHLEE9753/Blog/blob/main/Java/record%20%ED%81%B4%EB%9E%98%EC%8A%A4.md)<br>
+[record 클래스와 sealed 클래스와 interface(2) - sealed 클래스와 interface](https://github.com/YHLEE9753/Blog/blob/main/Java/sealed%20%ED%81%B4%EB%9E%98%EC%8A%A4%EC%99%80%20interface.md)<br>
 
 
 ## 📝 Question
