@@ -97,6 +97,7 @@ Logback<br>
 [redis 활용 - 추가 정리 필요](https://github.com/YHLEE9753/Blog/blob/main/Spring/redis%20%ED%99%9C%EC%9A%A9.md)<br>
 
 ### Spring 활용
+유니크 제약 조건 예외처리<br>
 cookie 처리를 controller 에서 할지 filter 에서 해야할지<br>
 
 ### Test & Document
@@ -106,6 +107,7 @@ cookie 처리를 controller 에서 할지 filter 에서 해야할지<br>
 git 전략(main 1개만 쓰는 거랑 dev 를 활용하는 차이)<br>
 git merge 전략(기본 merge, rebase, squash 차이)<br>
 [git submodule](https://github.com/YHLEE9753/Blog/blob/main/Git/git%20submodule.md)<br>
+github action
 
 ## 📝 AWS
 ### 기본
