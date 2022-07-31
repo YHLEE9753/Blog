@@ -97,7 +97,7 @@ Logback<br>
 [redis 활용 - 추가 정리 필요](https://github.com/YHLEE9753/Blog/blob/main/Spring/redis%20%ED%99%9C%EC%9A%A9.md)<br>
 
 ### Spring 활용
-유니크 제약 조건 예외처리<br>
+[유니크 제약 조건 예외처리](https://github.com/YHLEE9753/Blog/blob/main/Spring/%EC%9C%A0%EB%8B%88%ED%81%AC%20%EC%A0%9C%EC%95%BD%20%EC%A1%B0%EA%B1%B4%20%EC%98%88%EC%99%B8%EC%B2%98%EB%A6%AC.md)<br>
 cookie 처리를 controller 에서 할지 filter 에서 해야할지<br>
 
 ### Test & Document
