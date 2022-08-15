@@ -119,6 +119,11 @@ git submodule foreach git checkout main
 ---------------------------------
 # 서브 모듈 변경 사항을 update 할때
 git submodule update --remote --merge
+
+# 적용이 안될때
+#- 걍 지우고 recursive clone 을 이용하라(.gitmodule 파일은 남겨두고)
+git clone --recurse-submodules <url>
+
 ```
 # 2022/07/17 - 추가 설명
 ## 8. gradle 문법을 통한 resource 에 yaml 파일 추가 작업
