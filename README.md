@@ -64,8 +64,8 @@ JPA N+1 문제<br>
 Offset & Cursor<br>
 
 ## 📝 Querydsl
-Spring gradle 에서 QueryDSL 설정!!!!!!!!!!!!!!!!!!!!!!!<br>
-JPA Repository 설정 
+[Spring gradle 에서 QueryDSL 설정](https://github.com/YHLEE9753/Blog/blob/main/Database/Querydsl/JPA%20Repository%20%EC%84%A4%EC%A0%95.md)<br>
+[JpaRepository 를 사용하면서 QueryDSL 적용](https://github.com/YHLEE9753/Blog/blob/main/Database/Querydsl/JPA%20Repository%20%EC%84%A4%EC%A0%95.md)<br>
 QueryDsl 기본<br>
 
 ## 📝 Dev
@@ -75,52 +75,53 @@ Flyway 를 사용한 데이터베이스 형상관리<br>
 ## 📝 Spring
 ### Spring 이해
 Web Server와 WAS(Web Application Server)에 대하여<br>
-[서블릿(Servlet) 이란?](https://github.com/YHLEE9753/Blog/blob/main/Spring/%EC%84%9C%EB%B8%94%EB%A6%BF(Servlet)%20%EC%9D%B4%EB%9E%80.md) <br>
-[Dispatcher-Servlet(디스패처 서블릿)이란?](https://github.com/YHLEE9753/Blog/blob/main/Spring/Dispatcher-Servlet(%EB%94%94%EC%8A%A4%ED%8C%A8%EC%B2%98%20%EC%84%9C%EB%B8%94%EB%A6%BF)%EC%9D%B4%EB%9E%80.md) <br>
-[Filter, Interceptor 차이](https://github.com/YHLEE9753/Blog/blob/main/Spring/Filter%2C%20Interceptor%20%EC%B0%A8%EC%9D%B4.md)<br>
+[서블릿(Servlet) 이란?](https://github.com/YHLEE9753/Blog/blob/main/Spring/%EC%9D%B4%ED%95%B4/%EC%84%9C%EB%B8%94%EB%A6%BF(Servlet)%20%EC%9D%B4%EB%9E%80.md) <br>
+[Dispatcher-Servlet(디스패처 서블릿)이란?](https://github.com/YHLEE9753/Blog/blob/main/Spring/%EC%9D%B4%ED%95%B4/Dispatcher-Servlet(%EB%94%94%EC%8A%A4%ED%8C%A8%EC%B2%98%20%EC%84%9C%EB%B8%94%EB%A6%BF)%EC%9D%B4%EB%9E%80.md) <br>
+[Filter, Interceptor 차이](https://github.com/YHLEE9753/Blog/blob/main/Spring/%EC%9D%B4%ED%95%B4/Filter%2C%20Interceptor%20%EC%B0%A8%EC%9D%B4.md)<br>
 필터(Filter) 가 스프링 빈 등록과 주입이 가능한 이유<br>
 Spring 의 AOP 프록시 구현 방법<br>
 
 ### Spring 기능
-[Spring 에서 CORS 설정하기](https://github.com/YHLEE9753/Blog/blob/main/Spring/Spring%20%EC%97%90%EC%84%9C%20CORS%20%EC%84%A4%EC%A0%95%ED%95%98%EA%B8%B0.md)<br>
-[Spring profile](https://github.com/YHLEE9753/Blog/blob/main/Spring/Spring%20profile.md)<br>
-Yaml의 Propery 바인딩<br>
+[Spring 에서 CORS 설정하기](https://github.com/YHLEE9753/Blog/blob/main/Spring/%EA%B8%B0%EB%8A%A5/Spring%20%EC%97%90%EC%84%9C%20CORS%20%EC%84%A4%EC%A0%95%ED%95%98%EA%B8%B0.md)<br>
+[Spring profile](https://github.com/YHLEE9753/Blog/blob/main/Spring/%EA%B8%B0%EB%8A%A5/Spring%20profile.md)<br>
+[Spring h2 설정](https://github.com/YHLEE9753/Blog/blob/main/Spring/%EA%B8%B0%EB%8A%A5/%EA%B8%B0%EB%8A%A5/h2%20%EC%84%A4%EC%A0%95.md)<br>
+JpaAuditConfig 에서 Authentication Principle 적용하기!!!!!!!!!!!!!!!<br>
+RestControllerAdvice 와 error code 를 활용한 error handling!!!!!!!!!!<br>
+Yaml 설정 바인딩<br>
 Logback 설정<br>
-Spring h2 설정!!!!!!!!!!!!!!!!!!!!!!!<br>
-
 
 ### Security
-[Spring Security - Lambda DSL](https://github.com/YHLEE9753/Blog/blob/main/Spring/Spring%20Security%20-%20Lambda%20DSL.md)<br>
-[depreciated 된 WebSecurityConfigurerAdapter 수정하기](https://github.com/YHLEE9753/Blog/blob/main/Spring/depreciated%20%EB%90%9C%20WebSecurityConfigurerAdapter%20%EC%88%98%EC%A0%95%ED%95%98%EA%B8%B0.md)<br>
-[OncePerRequestFilter와 Filter의 차이](https://github.com/YHLEE9753/Blog/blob/main/Spring/OncePerRequestFilter%EC%99%80%20Filter%EC%9D%98%20%EC%B0%A8%EC%9D%B4.md)<br>
-[AuthenticationSuccessHandler 로그인 성공 후 특정 url redirect 방법 : RedirectStrategy](https://github.com/YHLEE9753/Blog/blob/main/Spring/AuthenticationSuccessHandler%20%EB%A1%9C%EA%B7%B8%EC%9D%B8%20%EC%84%B1%EA%B3%B5%20%ED%9B%84%20%ED%8A%B9%EC%A0%95%20url%20redirect%20%EB%B0%A9%EB%B2%95%20%20RedirectStrategy.md)<br>
+[Spring Security - Lambda DSL](https://github.com/YHLEE9753/Blog/blob/main/Spring/Security/Spring%20Security%20-%20Lambda%20DSL.md)<br>
+[depreciated 된 WebSecurityConfigurerAdapter 수정하기](https://github.com/YHLEE9753/Blog/blob/main/Spring/Security/depreciated%20%EB%90%9C%20WebSecurityConfigurerAdapter%20%EC%88%98%EC%A0%95%ED%95%98%EA%B8%B0.md)<br>
+[OncePerRequestFilter와 Filter의 차이](https://github.com/YHLEE9753/Blog/blob/main/Spring/Security/OncePerRequestFilter%EC%99%80%20Filter%EC%9D%98%20%EC%B0%A8%EC%9D%B4.md)<br>
+[AuthenticationSuccessHandler 로그인 성공 후 특정 url redirect 방법 : RedirectStrategy](https://github.com/YHLEE9753/Blog/blob/main/Spring/Security/AuthenticationSuccessHandler%20%EB%A1%9C%EA%B7%B8%EC%9D%B8%20%EC%84%B1%EA%B3%B5%20%ED%9B%84%20%ED%8A%B9%EC%A0%95%20url%20redirect%20%EB%B0%A9%EB%B2%95%20%20RedirectStrategy.md)<br>
 Filter 와 Interceptor 의 차이<br>
 Filter 에서 예외처리하기<br>
 Spring Security 에서 Cors 설정하기<br>
 
 ### OAuth2
-[JWT 인증의 의미](https://github.com/YHLEE9753/Blog/blob/main/Spring/JWT%20%EC%9D%B8%EC%A6%9D%EC%9D%98%20%EC%9D%98%EB%AF%B8.md)<br>
-[AccessToken과 RefreshToken의 특징과 위치](https://github.com/YHLEE9753/Blog/blob/main/Spring/AccessToken%EA%B3%BC%20RefreshToken%EC%9D%98%20%ED%8A%B9%EC%A7%95%EA%B3%BC%20%EC%9C%84%EC%B9%98.md)<br>
-[redis 활용 - 추가 정리 필요](https://github.com/YHLEE9753/Blog/blob/main/Spring/redis%20%ED%99%9C%EC%9A%A9.md)<br>
+[JWT 인증의 의미](https://github.com/YHLEE9753/Blog/blob/main/Spring/OAuth2/JWT%20%EC%9D%B8%EC%A6%9D%EC%9D%98%20%EC%9D%98%EB%AF%B8.md)<br>
+[AccessToken과 RefreshToken의 특징과 위치](https://github.com/YHLEE9753/Blog/blob/main/Spring/OAuth2/AccessToken%EA%B3%BC%20RefreshToken%EC%9D%98%20%ED%8A%B9%EC%A7%95%EA%B3%BC%20%EC%9C%84%EC%B9%98.md)<br>
+[redis 활용 - 추가 정리 필요](https://github.com/YHLEE9753/Blog/blob/main/Spring/OAuth2/redis%20%ED%99%9C%EC%9A%A9.md)<br>
 JWT 활용 시 Bcrypt 를 사용하는 이유
 
 ### Spring 활용
-[유니크 제약 조건 예외처리](https://github.com/YHLEE9753/Blog/blob/main/Spring/%EC%9C%A0%EB%8B%88%ED%81%AC%20%EC%A0%9C%EC%95%BD%20%EC%A1%B0%EA%B1%B4%20%EC%98%88%EC%99%B8%EC%B2%98%EB%A6%AC.md)<br>
-cookie 처리를 controller 에서 할지 filter 에서 해야할지<br>
+[유니크 제약 조건 예외처리](https://github.com/YHLEE9753/Blog/blob/main/Spring/%ED%99%9C%EC%9A%A9/%EC%9C%A0%EB%8B%88%ED%81%AC%20%EC%A0%9C%EC%95%BD%20%EC%A1%B0%EA%B1%B4%20%EC%98%88%EC%99%B8%EC%B2%98%EB%A6%AC.md)<br>
 Spring Boot S3 파일 업로드하기<bR>
 
 ### Test & Document
+[Mockito 와 BDDMockito 는 어떻게 구분하여 사용해야 할까?](https://github.com/YHLEE9753/Blog/blob/main/Spring/Test/Mockito%20%EC%99%80%20BDDMockito%20%EB%8A%94%20%EC%96%B4%EB%96%BB%EA%B2%8C%20%EA%B5%AC%EB%B6%84%ED%95%98%EC%97%AC%20%EC%82%AC%EC%9A%A9%ED%95%B4%EC%95%BC%20%ED%95%A0%EA%B9%8C.md)<br>
 Spring RestDocs 와 Swagger 의 장단점<br>
 F.I.R.S.T 원칙<br>
 통합 테스트와 단위 테스트<br>
-[Mockito 와 BDDMockito 는 어떻게 구분하여 사용해야 할까?](https://github.com/YHLEE9753/Blog/blob/main/Spring/Mockito%20%EC%99%80%20BDDMockito%20%EB%8A%94%20%EC%96%B4%EB%96%BB%EA%B2%8C%20%EA%B5%AC%EB%B6%84%ED%95%98%EC%97%AC%20%EC%82%AC%EC%9A%A9%ED%95%B4%EC%95%BC%20%ED%95%A0%EA%B9%8C.md)<br>
 @nested<br>
 
 
 ## 📝 Git
+[git submodule](https://github.com/YHLEE9753/Blog/blob/main/Git/git%20submodule.md)<br>
+git rebase<br>
 git 전략(main 1개만 쓰는 거랑 dev 를 활용하는 차이)<br>
 git merge 전략(기본 merge, rebase, squash 차이)<br>
-[git submodule](https://github.com/YHLEE9753/Blog/blob/main/Git/git%20submodule.md)<br>
 
 ## 📝 AWS
 ### 기본
@@ -133,7 +134,6 @@ git merge 전략(기본 merge, rebase, squash 차이)<br>
 [CI/CD 에시, Document DB, DevOps](https://github.com/YHLEE9753/Blog/blob/main/AWS/Document%20DB%2C%20CI%20CD%20%EC%97%90%EC%8B%9C.md)<br>
 
 ### CICD
-CICD 란?<br>
 AWS CodeDeploy 와 GitHub Action 을 이용한 CICD<br>
 Docker 와 GitHub Action 을 이용한 CICD<br>
 Let's Encrypt 를 이용한 https 적용하기<br>

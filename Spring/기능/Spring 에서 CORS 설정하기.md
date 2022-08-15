@@ -122,17 +122,17 @@ public class SimpleCorsFilter implements Filter {
     
     @Bean
     public CorsConfigurationSource corsConfigurationSource(){
-    CorsConfiguration corsConfiguration = new CorsCOnfiguration();
-    corsConfiguration.addAllowedOrigin("http://localhost:5500");
-    corsConfiguration.setAllowedMethods(
-        List.of(GET.name(), POST.name())
-    );
-    corsConfiguration.addAlowedHeader("*");
-    
-    UrlBasedCorsConfigurationSource source = new UrlBasedCorsConfigurationSource();
-    source.registerCorsConfiguration("/**", corConfiguration);
-    
-    return source;
+      CorsConfiguration corsConfiguration = new CorsCOnfiguration();
+      corsConfiguration.addAllowedOrigin("http://localhost:5500");
+      corsConfiguration.setAllowedMethods(
+          List.of(GET.name(), POST.name())
+      );
+      corsConfiguration.addAlowedHeader("*");
+      
+      UrlBasedCorsConfigurationSource source = new UrlBasedCorsConfigurationSource();
+      source.registerCorsConfiguration("/**", corConfiguration);
+      
+      return source;
     
     }
     //* addAllowedOrigin() : 허용할 URL
