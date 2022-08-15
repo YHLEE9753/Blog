@@ -6,7 +6,7 @@ JWT OAUTH 구현을 하던 중 팀원으로 부터 `authenticationfilter` 를 �
 그 이유로는 `OncePerRequestFilter` 의 경우 다른 서블렛으로 부터 요청을 받을때 수행할 수 있다고 하는데 정확한 이유에 대해 한번 알아보자
 
 ## 2. Spring MVC request life cycle
-![img.png](../images/mvcreaueestlifecycle.png)
+![img.png](../../images/mvcreaueestlifecycle.png)
 
 ## 3. GenericFilterBean
 - `Filter` 은 서블릿이 실행되기 전에 `doFilter` 를 통해 로직이 수행되고, 서블릿이 실행된다.

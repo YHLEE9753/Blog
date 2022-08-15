@@ -14,7 +14,7 @@ JWT OAuth 구현을 하면서 filter 에 대해 정리하던 중 실제 mvc 진�
 3. AOP
 
 ## 3. Filter, Interceptor, AOP 의 흐름
-![img.png](../images/filterinterceptoraopflow.png)
+![img.png](../../images/filterinterceptoraopflow.png)
 - 다음 그림을 보면 `Filter` 가 가장 밖에 있고, 그안에 `Interceptor` 그 다음에 `AOP` 가 있는 형태이다.
 - `Request` 에 `Filter` -> `Interceptor` -> `AOP` -> `Interceptor` -> `Filter` 순서이다.
 - `Interceptor` 와 `Filter` 는 `Servlet` 단위로 실행되고 `AOP` 는 메소드 앞에 `Proxy` 패턴의 형태로 실행된다.
@@ -27,7 +27,7 @@ JWT OAuth 구현을 하면서 filter 에 대해 정리하던 중 실제 mvc 진�
 흐름을 파악했으니 각 요소에 대해 더 자세히 알아보자
 
 ## 4. Fiter
-![img.png](../images/filter.png)
+![img.png](../../images/filter.png)
 - J2EE 표준 스펙 기능으로 디스패처 서블릿(Dispatcher Servlet)에 요청이 전달되기 전/후에 url 패턴에 맞는 모든 요청에 대해 부가작업을 처리할 수 있는 기능을 제공한다
 - 디스패처 서블릿은 스프링의 가장 앞단에 존재하는 프론트 컨트롤러이므로, 필터는 스프링 범위 밖에서 처리가 되는 것이다.
 - 따라서 스프링 컨테이너가 아닌 톰캣과 같은 서블릿 콘테이너에서 관리가 된다.(스프링 빈으로 등록은 된다.)
@@ -61,7 +61,7 @@ public interface Filter {
 -  이는 웹 컨테이너에 의해 1번 호출되며 이후에는 이제 doFilter에 의해 처리되지 않는다.
 
 ## 5. Interceptor
-![img.png](../images/interceptor.png)
+![img.png](../../images/interceptor.png)
 (실제로는 Interceptor가 Controller로 요청을 위임하지는 않는다. 아래의 그림은 처리 순서를 도식화한 것으로만 이해하면 된다.)
 
 
@@ -106,7 +106,7 @@ public interface HandlerInterceptor {
 - 요청 처리 중에 사용한 리소스를 반환할 때 사용하기에 적합하다.
 
 ## 6. 필터와 인터셉터 차이
-![img.png](../images/filterinterceptor.png)
+![img.png](../../images/filterinterceptor.png)
 - 필터(Filter)가 스프링 빈으로 등록되지 못하며, 빈을 주입 받을 수도 없다고 하는데, 이는 잘못된 설명이다. 
 - 이는 매우 옛날의 이야기이며, 필터는 현재 스프링 빈으로 등록이 가능하며, 다른 곳에 주입되거나 다른 빈을 주입받을 수도 있다.
 

@@ -64,7 +64,8 @@ JPA N+1 문제<br>
 Offset & Cursor<br>
 
 ## 📝 Querydsl
-Spring 에서 QueryDSL 설정<br>
+Spring gradle 에서 QueryDSL 설정!!!!!!!!!!!!!!!!!!!!!!!<br>
+JPA Repository 설정 
 QueryDsl 기본<br>
 
 ## 📝 Dev
@@ -85,6 +86,7 @@ Spring 의 AOP 프록시 구현 방법<br>
 [Spring profile](https://github.com/YHLEE9753/Blog/blob/main/Spring/Spring%20profile.md)<br>
 Yaml의 Propery 바인딩<br>
 Logback 설정<br>
+Spring h2 설정!!!!!!!!!!!!!!!!!!!!!!!<br>
 
 
 ### Security
@@ -92,15 +94,15 @@ Logback 설정<br>
 [depreciated 된 WebSecurityConfigurerAdapter 수정하기](https://github.com/YHLEE9753/Blog/blob/main/Spring/depreciated%20%EB%90%9C%20WebSecurityConfigurerAdapter%20%EC%88%98%EC%A0%95%ED%95%98%EA%B8%B0.md)<br>
 [OncePerRequestFilter와 Filter의 차이](https://github.com/YHLEE9753/Blog/blob/main/Spring/OncePerRequestFilter%EC%99%80%20Filter%EC%9D%98%20%EC%B0%A8%EC%9D%B4.md)<br>
 [AuthenticationSuccessHandler 로그인 성공 후 특정 url redirect 방법 : RedirectStrategy](https://github.com/YHLEE9753/Blog/blob/main/Spring/AuthenticationSuccessHandler%20%EB%A1%9C%EA%B7%B8%EC%9D%B8%20%EC%84%B1%EA%B3%B5%20%ED%9B%84%20%ED%8A%B9%EC%A0%95%20url%20redirect%20%EB%B0%A9%EB%B2%95%20%20RedirectStrategy.md)<br>
-Filter 와 Interceptor 의 차이
-Filter 에서 예외처리하기
-Spring Security 에서 Cors 설정하기
+Filter 와 Interceptor 의 차이<br>
+Filter 에서 예외처리하기<br>
+Spring Security 에서 Cors 설정하기<br>
 
 ### OAuth2
 [JWT 인증의 의미](https://github.com/YHLEE9753/Blog/blob/main/Spring/JWT%20%EC%9D%B8%EC%A6%9D%EC%9D%98%20%EC%9D%98%EB%AF%B8.md)<br>
 [AccessToken과 RefreshToken의 특징과 위치](https://github.com/YHLEE9753/Blog/blob/main/Spring/AccessToken%EA%B3%BC%20RefreshToken%EC%9D%98%20%ED%8A%B9%EC%A7%95%EA%B3%BC%20%EC%9C%84%EC%B9%98.md)<br>
 [redis 활용 - 추가 정리 필요](https://github.com/YHLEE9753/Blog/blob/main/Spring/redis%20%ED%99%9C%EC%9A%A9.md)<br>
-[JWT 활용 시 Bcrypt 를 사용하는 이유]
+JWT 활용 시 Bcrypt 를 사용하는 이유
 
 ### Spring 활용
 [유니크 제약 조건 예외처리](https://github.com/YHLEE9753/Blog/blob/main/Spring/%EC%9C%A0%EB%8B%88%ED%81%AC%20%EC%A0%9C%EC%95%BD%20%EC%A1%B0%EA%B1%B4%20%EC%98%88%EC%99%B8%EC%B2%98%EB%A6%AC.md)<br>

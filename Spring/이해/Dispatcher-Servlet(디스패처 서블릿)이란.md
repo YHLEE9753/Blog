@@ -5,8 +5,8 @@
 필터에서 dispatch 가 발생한다는데 정확한 개념에 대해 파악하고자 한다
 
 ## 2. 디스패처 서블릿
-![img.png](../images/mvcreaueestlifecycle.png)
-![img.png](../images/handler.png)
+![img.png](../../images/mvcreaueestlifecycle.png)
+![img.png](../../images/handler.png)
 - 디스패처 서블릿의 dispatch는 "보내다"라는 뜻을 가지고 있다.
 - 그리고 이러한 단어를 포함하는 디스패처 서블릿은 HTTP 프로토콜로 들어오는 모든 요청을 가장 먼저 받아 적합한 컨트롤러에 위임해주는 프론트 컨트롤러(Front Controller)라고 정의할 수 있다
 - 클라이언트로부터 어떠한 요청이 오면 Tomcat(톰캣)과 같은 서블릿 컨테이너가 요청을 받게 된다
@@ -33,7 +33,7 @@
 > 영역을 분리하면 효율적인 리소스 관리를 지원할 뿐 아니라 추후 확장을 용이하게 해준다는 장점이 있다.
 
 ## 5. 디스패처 서블릿의 동작 과정
-![img_1.png](../images/dispatch.png)
+![img_1.png](../../images/dispatch.png)
 - 디스패처 서블릿은 적합한 컨트롤러와 메소드를 찾아 요청을 위임하고 결과를 받아온다.
 
 1. 클라이언트의 요청을 디스패처 서블릿이 받음
@@ -47,7 +47,7 @@
 
 ---
 1. 클라이언트의 요청을 디스패처 서블릿이 받음
-![img.png](../images/interceptor.png)
+![img.png](../../images/interceptor.png)
 - 서블릿 컨텍스트에서 필터를 지나 스프링 컨텍스트에서 디스패치 서블릿이 가장 먼저 요청을 받게 된다.
 - 그 후 interceptor 와 controller 를 거쳐 반환값을 받는다
 - 이때 interceptor 가 controller 로 요청을 위임하지는 않는다(그림의 도식화)
