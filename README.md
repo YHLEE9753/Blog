@@ -7,19 +7,19 @@
 📚 프로그래밍 도서 내용을 정리합니다.
 
 ## ⚙ Table
-1. [Book](##📝-Book)<br>
-2. [Architecture](##📝-Architecture)<br>
-3. [Network](##📝-Network)<br>
-4. [Operating System](##📝-Operating System)<br>
-5. [Database](##📝-Database)<br>
-6. [Querydsl](##📝-Querydsl)<br>
-7. [Dev](##📝-Dev)<br>
-8. [Spring](##📝-Spring)<br>
-9. [Git](##📝-Git)<br>
-10. [AWS](##📝-AWS)<br>
-11. [Java](##📝-Java)<br>
-12. [Question](##📝-Question)<br>
-13. [Other](##📝-Other)<br>
+1. [Book](#-book)<br>
+2. [Architecture](#-architecture)<br>
+3. [Network](#-network)<br>
+4. [Operating System](#-operating-system)<br>
+5. [Database](#-database)<br>
+6. [Querydsl](#-querydsl)<br>
+7. [Dev](#-dev)<br>
+8. [Spring](#-spring)<br>
+9. [Git](#-git)<br>
+10. [AWS](#-aws)<br>
+11. [Java](#-java)<br>
+12. [Question](#-question)<br>
+13. [Other](#-other)<br>
 
 ## 📝 Book
 ### 읽은 책
