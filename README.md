@@ -7,7 +7,19 @@
 📚 프로그래밍 도서 내용을 정리합니다.
 
 ## ⚙ Table
-Architecture | Book | Network | Operating System | Database | Querydsl| Dev | Spring | Question | Git | AWS | Question | Other
+1. [Book](##📝-Book)<br>
+2. [Architecture](##📝-Architecture)<br>
+3. [Network](##📝-Network)<br>
+4. [Operating System](##📝-Operating System)<br>
+5. [Database](##📝-Database)<br>
+6. [Querydsl](##📝-Querydsl)<br>
+7. [Dev](##📝-Dev)<br>
+8. [Spring](##📝-Spring)<br>
+9. [Git](##📝-Git)<br>
+10. [AWS](##📝-AWS)<br>
+11. [Java](##📝-Java)<br>
+12. [Question](##📝-Question)<br>
+13. [Other](##📝-Other)<br>
 
 ## 📝 Book
 ### 읽은 책
@@ -52,23 +64,28 @@ URL 과 URI 의 차이<br>
 
 ## 📝 Database
 ### SQL
-페치 조인<br>
-update 에서 bulk 연산<br>
+inner join, outer join, in<br>
 [언제 비관적락(pessimistic lock)을 사용하고 언제 낙관적락(optimistic lock)을 사용할까?](https://github.com/YHLEE9753/Blog/blob/main/Database/%EC%96%B8%EC%A0%9C%20%EB%B9%84%EA%B4%80%EC%A0%81%EB%9D%BD(pessimistic%20lock)%EC%9D%84%20%EC%82%AC%EC%9A%A9%ED%95%98%EA%B3%A0%20%EC%96%B8%EC%A0%9C%20%EB%82%99%EA%B4%80%EC%A0%81%EB%9D%BD(optimistic%20lock)%EC%9D%84%20%EC%82%AC%EC%9A%A9%ED%95%A0%EA%B9%8C.md)<br>
 
+### Redis
+[In-memory DB란?]<br>
+[Redis 의 특징, 장단점, 사용처]<br>
+[Redis 와 Memcached 의 차이]<br>
 
-### JPA
+## 📝 JPA
+페치 조인<br>
+update 에서 bulk 연산<br>
 [속성 컨텍스트(Persistence Context) - 엔티티 생명주기와 기능들](https://github.com/YHLEE9753/Blog/blob/main/Database/%EC%86%8D%EC%84%B1%20%EC%BB%A8%ED%85%8D%EC%8A%A4%ED%8A%B8(Persistence%20Context)%20-%20%EC%97%94%ED%8B%B0%ED%8B%B0%20%EC%83%9D%EB%AA%85%EC%A3%BC%EA%B8%B0%EC%99%80%20%EA%B8%B0%EB%8A%A5%EB%93%A4.md)<br>
 [OneToOne 관계는 과연 지연로딩이 되는가?](https://github.com/YHLEE9753/Blog/blob/main/Database/OneToOne%20%EA%B4%80%EA%B3%84%EB%8A%94%20%EA%B3%BC%EC%97%B0%20%EC%A7%80%EC%97%B0%EB%A1%9C%EB%94%A9%EC%9D%B4%20%EB%90%98%EB%8A%94%EA%B0%80.md)<br>
-JPA N+1 문제<br>
-Offset & Cursor<br>
+[JPA N+1 문제]<br>
+[Offset & Cursor]<br>
 
 ## 📝 Querydsl
 [Spring gradle 에서 QueryDSL 설정](https://github.com/YHLEE9753/Blog/blob/main/Database/Querydsl/JPA%20Repository%20%EC%84%A4%EC%A0%95.md)<br>
 [JpaRepository 를 사용하면서 QueryDSL 적용](https://github.com/YHLEE9753/Blog/blob/main/Database/Querydsl/JPA%20Repository%20%EC%84%A4%EC%A0%95.md)<br>
 [QueryDsl 기본](https://www.notion.so/yhlee9753/Querydsl-1-0f5b10c23ea749b68ef9488131f1e09d)<br>
-[fetchResults fetchCount depreciated]<br>
-
+[fetchResults fetchCount depreciated](https://github.com/YHLEE9753/Blog/blob/main/Database/Querydsl/fetchResults%20fetchCount%20depreciated.md)<br>
+[Querydsl Projection 방법]<br>
 
 
 ## 📝 Dev
@@ -89,8 +106,8 @@ Spring 의 AOP 프록시 구현 방법<br>
 [Spring profile](https://github.com/YHLEE9753/Blog/blob/main/Spring/%EA%B8%B0%EB%8A%A5/Spring%20profile.md)<br>
 [Spring h2 설정](https://github.com/YHLEE9753/Blog/blob/main/Spring/%EA%B8%B0%EB%8A%A5/%EA%B8%B0%EB%8A%A5/h2%20%EC%84%A4%EC%A0%95.md)<br>
 [JpaAuditConfig 에서 Authentication Principle 적용하기](https://github.com/YHLEE9753/Blog/blob/main/Spring/%EA%B8%B0%EB%8A%A5/JpaAuditConfig%20%EC%97%90%EC%84%9C%20Authentication%20Principle%20%EC%A0%81%EC%9A%A9%ED%95%98%EA%B8%B0.md)<br>
-RestControllerAdvice 와 error code 를 활용한 error handling!!!!!!!!!!<br>
-Yaml 설정 바인딩<br>
+[RestControllerAdvice 와 error code 를 활용한 error handling]<br>
+[Yaml 설정 바인딩]<br>
 Logback 설정<br
 
 ### Security
@@ -106,23 +123,27 @@ Spring Security 에서 Cors 설정하기<br>
 [JWT 인증의 의미](https://github.com/YHLEE9753/Blog/blob/main/Spring/OAuth2/JWT%20%EC%9D%B8%EC%A6%9D%EC%9D%98%20%EC%9D%98%EB%AF%B8.md)<br>
 [AccessToken과 RefreshToken의 특징과 위치](https://github.com/YHLEE9753/Blog/blob/main/Spring/OAuth2/AccessToken%EA%B3%BC%20RefreshToken%EC%9D%98%20%ED%8A%B9%EC%A7%95%EA%B3%BC%20%EC%9C%84%EC%B9%98.md)<br>
 [redis 활용 - 추가 정리 필요](https://github.com/YHLEE9753/Blog/blob/main/Spring/OAuth2/redis%20%ED%99%9C%EC%9A%A9.md)<br>
-JWT 활용 시 Bcrypt 를 사용하는 이유
+[JWT 활용 시 Bcrypt 를 사용하는 이유]<br>
+[JWT 구조]<br>
+[OAuth flow]<br>
+[Spring token 관리구현1(RefreshToken:redis, AccessToken:front 관리)]<br>
+[Spring token 관리구현2(RefreshToken:redis, AccessToken:Cookie 사용)]<br>
 
 ### Spring 활용
 [유니크 제약 조건 예외처리](https://github.com/YHLEE9753/Blog/blob/main/Spring/%ED%99%9C%EC%9A%A9/%EC%9C%A0%EB%8B%88%ED%81%AC%20%EC%A0%9C%EC%95%BD%20%EC%A1%B0%EA%B1%B4%20%EC%98%88%EC%99%B8%EC%B2%98%EB%A6%AC.md)<br>
-Spring Boot S3 파일 업로드하기<bR>
+[Spring Boot S3 파일 업로드하기]<bR>
 
 ### Test & Document
 [Mockito 와 BDDMockito 는 어떻게 구분하여 사용해야 할까?](https://github.com/YHLEE9753/Blog/blob/main/Spring/Test/Mockito%20%EC%99%80%20BDDMockito%20%EB%8A%94%20%EC%96%B4%EB%96%BB%EA%B2%8C%20%EA%B5%AC%EB%B6%84%ED%95%98%EC%97%AC%20%EC%82%AC%EC%9A%A9%ED%95%B4%EC%95%BC%20%ED%95%A0%EA%B9%8C.md)<br>
-Spring RestDocs 와 Swagger 의 장단점<br>
-F.I.R.S.T 원칙<br>
-통합 테스트와 단위 테스트<br>
+[Spring RestDocs 와 Swagger 의 장단점]<br>
+[F.I.R.S.T 원칙]<br>
+[통합 테스트와 단위 테스트]<br>
 @nested<br>
 
 
 ## 📝 Git
 [git submodule](https://github.com/YHLEE9753/Blog/blob/main/Git/git%20submodule.md)<br>
-git rebase<br>
+[git rebase]<br>
 git 전략(main 1개만 쓰는 거랑 dev 를 활용하는 차이)<br>
 git merge 전략(기본 merge, rebase, squash 차이)<br>
 
@@ -136,10 +157,10 @@ git merge 전략(기본 merge, rebase, squash 차이)<br>
 [Docker, IAM, VPC](https://github.com/YHLEE9753/Blog/blob/main/AWS/Dokcer%2C%20VPC%2C%20IAM.md)<br>
 [CI/CD 에시, Document DB, DevOps](https://github.com/YHLEE9753/Blog/blob/main/AWS/Document%20DB%2C%20CI%20CD%20%EC%97%90%EC%8B%9C.md)<br>
 
-### CICD
-AWS CodeDeploy 와 GitHub Action 을 이용한 CICD<br>
+### CI CD
+[AWS CodeDeploy 와 GitHub Action 을 이용한 CICD]<br>
 Docker 와 GitHub Action 을 이용한 CICD<br>
-Let's Encrypt 를 이용한 https 적용하기<br>
+[Let's Encrypt 를 이용한 https 적용하기]<br>
 
 ## 📝 Java
 [Checked Exception, UnChecked Exception](https://github.com/YHLEE9753/Blog/blob/main/Java/Checked%20Exception%2C%20UnChecked%20Exception.md)<br>
