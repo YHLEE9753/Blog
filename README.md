@@ -160,7 +160,9 @@ git merge 전략(기본 merge, rebase, squash 차이)<br>
 
 ### CI CD
 [AWS CodeDeploy 와 GitHub Action 을 이용한 CICD]<br>
-Docker 와 GitHub Action 을 이용한 CICD<br>
+[Spring Boot - Docker 를 이용한 수동 배포]<br>
+[Docker 와 GitHub Action 을 이용한 CICD]<br>
+[nginx 를 이용한 80 포트 8080 포트로 사용하기]<br>
 [Let's Encrypt 를 이용한 https 적용하기]<br>
 
 ## 📝 Java
