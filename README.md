@@ -81,7 +81,7 @@ update 에서 bulk 연산<br>
 [Offset & Cursor]<br>
 
 ## 📝 Querydsl
-[Spring gradle 에서 QueryDSL 설정](https://github.com/YHLEE9753/Blog/blob/main/Database/Querydsl/JPA%20Repository%20%EC%84%A4%EC%A0%95.md)<br>
+[Spring gradle 에서 QueryDSL 설정](https://github.com/YHLEE9753/Blog/blob/main/Database/Querydsl/Spring%20%EC%97%90%EC%84%9C%20QueryDSL%20%EC%84%A4%EC%A0%95.md)<br>
 [JpaRepository 를 사용하면서 QueryDSL 적용](https://github.com/YHLEE9753/Blog/blob/main/Database/Querydsl/JPA%20Repository%20%EC%84%A4%EC%A0%95.md)<br>
 [QueryDsl 기본](https://www.notion.so/yhlee9753/Querydsl-1-0f5b10c23ea749b68ef9488131f1e09d)<br>
 [fetchResults fetchCount depreciated](https://github.com/YHLEE9753/Blog/blob/main/Database/Querydsl/fetchResults%20fetchCount%20depreciated.md)<br>
@@ -108,7 +108,8 @@ Spring 의 AOP 프록시 구현 방법<br>
 [JpaAuditConfig 에서 Authentication Principle 적용하기](https://github.com/YHLEE9753/Blog/blob/main/Spring/%EA%B8%B0%EB%8A%A5/JpaAuditConfig%20%EC%97%90%EC%84%9C%20Authentication%20Principle%20%EC%A0%81%EC%9A%A9%ED%95%98%EA%B8%B0.md)<br>
 [RestControllerAdvice 와 error code 를 활용한 error handling]<br>
 [Yaml 설정 바인딩]<br>
-Logback 설정<br
+Logback 설정<br>
+[redis 설정 및 사용법]<br>
 
 ### Security
 [Spring Security - Lambda DSL](https://github.com/YHLEE9753/Blog/blob/main/Spring/Security/Spring%20Security%20-%20Lambda%20DSL.md)<br>

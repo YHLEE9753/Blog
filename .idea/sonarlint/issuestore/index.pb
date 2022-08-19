@@ -51,18 +51,12 @@ I
 Network/RESTful한 URL.md,9\e\9e5f77fc62a6c7d108a7a06eb3ee80aa20ce69ee
 T
 $Network/get post put delete patch.md,b\1\b16c147b32b1a38b72e3928c3afe35d623c407ff
-T
-$Network/https 보안 알고리즘.md,a\d\ad48fa407539e06558ec1d851760294838fc7027
 O
 Network/TCP와 UDP의 비교.md,7\9\79f89894c7f9e82b951afbc3d11c3f969d90a7cc
-I
-Network/http 와 https.md,5\1\51b75ca75993042d2a9b85ba4434e011a7aa5509
 F
 Network/TLS and SSL.md,d\6\d6067acdff9b66b8c91897cbcf10ea20762ac465
 C
 Network/CORS 란.md,9\7\97172b8794819f149a93e2b19959d067ee116ec0
-^
-.Java/Checked Exception, UnChecked Exception.md,6\0\60f66b1fdd76e015c449f34dd9719c327256d21e
 t
 DJava/Generics(2) - 공변(Contravariace)과 반공변(Covariance).md,8\b\8be76cecba780e6f114da39cff84f80ee7670c44
 a
