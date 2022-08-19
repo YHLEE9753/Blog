@@ -66,3 +66,6 @@ $ sudo docker pull dldydgns53/medigo
 $ sudo docker run -p 8080:8080 dldydgns53/medigo
 ```
 - ec2 ip 에 8080 포트 진입 시 배포가 성공된것을 확인할 수 있다.
+
+## 참고 사이트
+https://zzang9ha.tistory.com/360?category=954133
