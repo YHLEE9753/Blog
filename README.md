@@ -50,6 +50,9 @@ IT 엔지니어를 위한 네트워크 입문<br>
 [HTTP 와 HTTPS](https://github.com/YHLEE9753/Blog/blob/main/Network/http%20%EC%99%80%20https.md)<br>
 [HTTPS 보안 알고리즘](https://github.com/YHLEE9753/Blog/blob/main/Network/https%20%EB%B3%B4%EC%95%88%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98.md)<br>
 [SSL and TLS](https://github.com/YHLEE9753/Blog/blob/main/Network/TLS%20and%20SSL.md)<br>
+[로드 밸런싱(Load Balancing)]<br>
+[DNS Round Robin 방식]<br>
+Blocking,Non-blocking & Synchronous,Asynchronous<br>
 
 ### 개발
 [CORS 란?](https://github.com/YHLEE9753/Blog/blob/main/Network/CORS%20%EB%9E%80.md)<br>
@@ -162,7 +165,8 @@ git merge 전략(기본 merge, rebase, squash 차이)<br>
 [AWS CodeDeploy 와 GitHub Action 을 이용한 CICD]<br>
 [Spring Boot - Docker 를 이용한 수동 배포](https://github.com/YHLEE9753/Blog/blob/main/AWS/Spring%20Boot%20-%20Docker%20%EB%A5%BC%20%EC%9D%B4%EC%9A%A9%ED%95%9C%20%EC%88%98%EB%8F%99%20%EB%B0%B0%ED%8F%AC.md)<br>
 [Docker 와 GitHub Action 을 이용한 CICD(1) - CICD 구축](https://github.com/YHLEE9753/Blog/blob/main/AWS/Docker%20%EC%99%80%20GitHub%20Action%20%EC%9D%84%20%EC%9D%B4%EC%9A%A9%ED%95%9C%20CICD(1)%20-%20CICD%20%EA%B5%AC%EC%B6%95.md)<br>
-[Docker 와 GitHub Action 을 이용한 CICD(2) - MySQL, Redis 연동]<br>
+[Docker 와 GitHub Action 을 이용한 CICD(2) - MySQL, Redis 연동](https://github.com/YHLEE9753/Blog/blob/main/AWS/Docker%20%EC%99%80%20GitHub%20Action%20%EC%9D%84%20%EC%9D%B4%EC%9A%A9%ED%95%9C%20CICD(2)%20-%20MySQL%2C%20Redis%20%EC%97%B0%EB%8F%99.md)<br>
+[Docker 와 GitHub Action 을 이용한 CICD(3) - Https 적용]
 [nginx 를 이용한 80 포트 8080 포트로 사용하기]<br>
 [Let's Encrypt 를 이용한 https 적용하기]<br>
 

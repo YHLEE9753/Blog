@@ -47,8 +47,6 @@ X
 (AWS/Document DB, CI CD 에시, DevOps.md,e\0\e0b0493ebda05435e17ee93e42226760e0aa116e
 I
 Network/RESTful한 URL.md,9\e\9e5f77fc62a6c7d108a7a06eb3ee80aa20ce69ee
-T
-$Network/get post put delete patch.md,b\1\b16c147b32b1a38b72e3928c3afe35d623c407ff
 O
 Network/TCP와 UDP의 비교.md,7\9\79f89894c7f9e82b951afbc3d11c3f969d90a7cc
 F
@@ -159,8 +157,6 @@ Z
 *Spring/이해/서블릿(Servlet) 이란.md,6\6\666d54b6b80b2e7356ac3cab00fcec2cf3125417
 e
 5Spring/활용/유니크 제약 조건 예외처리.md,6\e\6ef998c7a29b3114b42ab9d8ed719a7625d722af
-b
-2Database/Querydsl/Spring 에서 QueryDSL 설정.md,a\9\a982052d59c3996b102ff9b6ad35753ca47badb5
 J
 Spring/기능/h2 설정.md,8\e\8ea953919dad4980ce04eecacf767053346922d1
 |
