@@ -65,7 +65,7 @@ ex) A 는 5의 가중치, B 는 2의 가중치를 가진다면, A 서버는 5개
 ![img.png](../images/l4vsl7.png)
 
 ### 잠깐 OST 7 계층 복습해보자
-![img.png](OSI7복습.png)
+![img.png](../images/OSI7복습.png)
 
 ## 참고 사이트
 
