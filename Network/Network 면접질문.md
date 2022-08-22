@@ -78,6 +78,12 @@
 13. Sync 와 Async 의 차이는 무엇인가요?
 14. Blacking Sync 와 Non Blocking Async 를 설명해 주시겠어요?
 
+----
+- 로드밸런서가 장애가 난경우를 대비하여 어떻게 대응하면 좋을까?
+  - 마스터 슬래이브 같이 이중화를 통해 대비(로드밸런서를 2개 이상 둔다) -> 추가적으로 알아보자
+- Blocking Non Blocking 제어권
+
+
 ---
 ## 2. 답안
 1. OSI, TCP/IP

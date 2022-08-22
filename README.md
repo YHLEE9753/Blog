@@ -63,9 +63,10 @@ URL 과 URI 의 차이<br>
 ### 면접질문
 [Network 면접질문](https://github.com/YHLEE9753/Blog/blob/main/Network/Network%20%EB%A9%B4%EC%A0%91%EC%A7%88%EB%AC%B8.md)<br>
 
-## 📝 Operating System
-
 ## 📝 Database
+### 이론
+[정규화에 대해서]()
+
 ### SQL
 inner join, outer join, in<br>
 [언제 비관적락(pessimistic lock)을 사용하고 언제 낙관적락(optimistic lock)을 사용할까?](https://github.com/YHLEE9753/Blog/blob/main/Database/%EC%96%B8%EC%A0%9C%20%EB%B9%84%EA%B4%80%EC%A0%81%EB%9D%BD(pessimistic%20lock)%EC%9D%84%20%EC%82%AC%EC%9A%A9%ED%95%98%EA%B3%A0%20%EC%96%B8%EC%A0%9C%20%EB%82%99%EA%B4%80%EC%A0%81%EB%9D%BD(optimistic%20lock)%EC%9D%84%20%EC%82%AC%EC%9A%A9%ED%95%A0%EA%B9%8C.md)<br>
@@ -74,6 +75,8 @@ inner join, outer join, in<br>
 [In-memory DB란?]<br>
 [Redis 의 특징, 장단점, 사용처]<br>
 [Redis 와 Memcached 의 차이]<br>
+
+## 📝 Operating System
 
 ## 📝 JPA
 페치 조인<br>
@@ -93,8 +96,8 @@ update 에서 bulk 연산<br>
 
 ## 📝 Dev
 [Jasypt 를 통한 정보 암호화](https://github.com/YHLEE9753/Blog/blob/main/Dev/Jasypt%20%EB%A5%BC%20%ED%86%B5%ED%95%9C%20%EC%A0%95%EB%B3%B4%20%EC%95%94%ED%98%B8%ED%99%94.md)<br>
-Flyway 를 사용한 데이터베이스 형상관리<br>
-[Sentry 를 이용한 로그 관리 - 추가정보필]<br>
+[Flyway 를 사용한 데이터베이스 형상관리]<br>
+[Sentry 를 이용한 로그 관리](https://github.com/YHLEE9753/Blog/blob/main/Dev/Sentry%20%EB%A5%BC%20%EC%9D%B4%EC%9A%A9%ED%95%9C%20%EB%A1%9C%EA%B7%B8%20%EA%B4%80%EB%A6%AC.md)<br>
 
 ## 📝 Spring
 ### Spring 이해

@@ -49,7 +49,19 @@ sentry:
   <include resource="org/springframework/boot/logging/logback/defaults.xml"/>
   <include resource="org/springframework/boot/logging/logback/console-appender.xml" />
 
-  <appender name="SENTRY" class="io.sentry.logback.SentryAppender" />
+  <property resource="application-prod.yml" />
+  <appender name="SENTRY" class="io.sentry.logback.SentryAppender">
+    <options>
+      <dsn>${DSN}</dsn>
+    </options>
+    <minimumEventLevel>INFO</minimumEventLevel>
+    <minimumBreadcrumbLevel>DEBUG</minimumBreadcrumbLevel>
+  </appender>
+
+  <logger name="org.hibernate.SQL" additivity="false">
+    <level value = "DEBUG" />
+    <appender-ref ref="SENTRY" />
+  </logger>
 
   <root level="info">
     <appender-ref ref="CONSOLE" />
@@ -59,7 +71,7 @@ sentry:
 ```
 - 그 후 `main/resources/` 에 `logback-spring.xml` 파일로 `log` 설정을 명시한다.
 - error 이상의 log 가 sentry 에 찍히는 것을 확인할 수 있다.
-- info 수준으로 낮추고 싶은데 계속 에러가 발생한다. 추후 오류를 확인하고 적용하자
+- info 수준으로 log 가 찍히는 것을 확인할 수 있다.
 
 ## 참고 사이트
 공식문서 : https://docs.sentry.io/platforms/java/guides/spring-boot/async/

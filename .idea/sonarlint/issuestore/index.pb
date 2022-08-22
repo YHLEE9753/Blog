@@ -37,8 +37,6 @@ ZDatabase/속성 컨텍스트(Persistence Context) - 엔티티 생명주기와 �
 vDatabase/언제 비관적락(pessimistic lock)을 사용하고 언제 낙관적락(optimistic lock)을 사용할까.md,8\a\8a780cb7d82a8422c6accf0e9ab22969d601e804
 N
 AWS/CloudWatch, ELB, lambda.md,8\4\84ffa7c1a8be56567162c1b5937d6c2ec5371d54
-o
-?Database/OneToOne 관계는 과연 지연로딩이 되는가.md,a\a\aac07e5dc8145158589cd3df86182dee964d48e3
 G
 AWS/Dokcer, VPC, IAM.md,6\2\629a38148a2f34359b189d3038362e83164165fc
 X
@@ -167,8 +165,6 @@ h
 8Database/Querydsl/fetchResults fetchCount depreciated.md,4\9\498ee78d591e3191a0b7550c194843fe24988b41
 ^
 .Java/Checked Exception, UnChecked Exception.md,6\0\60f66b1fdd76e015c449f34dd9719c327256d21e
-I
-Network/http 와 https.md,5\1\51b75ca75993042d2a9b85ba4434e011a7aa5509
 T
 $Network/https 보안 알고리즘.md,a\d\ad48fa407539e06558ec1d851760294838fc7027
 O
@@ -185,3 +181,5 @@ T
 $Network/get post put delete patch.md,b\1\b16c147b32b1a38b72e3928c3afe35d623c407ff
 t
 DAWS/Docker 와 GitHub Action 을 이용한 CICD(3) - Https 적용.md,4\a\4ab5506039a30981c4b25c7c35636dbcd02e713f
+Y
+)Dev/Jasypt 를 통한 정보 암호화.md,c\c\cca2e61916f2d8090bac137c4448a6f60e0d8343
