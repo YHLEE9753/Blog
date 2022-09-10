@@ -31,8 +31,6 @@ GArchitecture/왜 layer 마다 dto 와 converter 를 두어야 할까.md,1\f\1f
 XArchitecture/controller 와 service 에서 의존성 관리는 누구의 책임일까.md,d\5\d5281315bc285360ae5748586e4b5db446438f92
 j
 :Architecture/조회로직은 전부 만들어야 할까.md,0\5\055987f2d018b5f89192a35f25ce5fd57643c300
-�
-ZDatabase/속성 컨텍스트(Persistence Context) - 엔티티 생명주기와 기능들.md,3\a\3adccb9aa2f31993bc65d2673f516fb07d22fde5
 �
 vDatabase/언제 비관적락(pessimistic lock)을 사용하고 언제 낙관적락(optimistic lock)을 사용할까.md,8\a\8a780cb7d82a8422c6accf0e9ab22969d601e804
 N
@@ -101,8 +99,6 @@ w
 G.idea/sonarlint/issuestore/8/b/8be76cecba780e6f114da39cff84f80ee7670c44,c\8\c832698f971a830173a98c91dc3e67fba4bf1649
 w
 G.idea/sonarlint/issuestore/6/5/651dfa55d67d9f1e3340383976f4c8f04cb31177,5\5\55843e002125b9107f09feacdcfcc68e1e80953f
-w
-G.idea/sonarlint/issuestore/5/1/51b75ca75993042d2a9b85ba4434e011a7aa5509,b\4\b445f383cdcf635999b4b5d0dd65a2e7542992c6
 w
 G.idea/sonarlint/issuestore/9/7/97172b8794819f149a93e2b19959d067ee116ec0,7\9\790744d322e4235dad980f74c02299b0b87d9820
 w
@@ -183,3 +179,19 @@ t
 DAWS/Docker 와 GitHub Action 을 이용한 CICD(3) - Https 적용.md,4\a\4ab5506039a30981c4b25c7c35636dbcd02e713f
 Y
 )Dev/Jasypt 를 통한 정보 암호화.md,c\c\cca2e61916f2d8090bac137c4448a6f60e0d8343
+I
+Network/http 와 https.md,5\1\51b75ca75993042d2a9b85ba4434e011a7aa5509
+k
+;Network/Blocking,Non-blocking & Synchronous,Asynchronous.md,f\b\fb341c241f747977e66068dbd65226e5b33bc9b0
+[
++Network/로드 밸런싱(Load Balancing).md,f\0\f038aa964a08b766e85494de3c7ea88eb81af02b
+Q
+!Network/DNS Round Robin 방식.md,8\9\896ce75b2ffd0f4885a19b4f0aa7848416c201a0
+k
+;Dev/Flyway 를 사용한 데이터베이스 형상관리.md,e\5\e522168ab070da8d744843b9eef51406a2a25b5f
+O
+Network/Network 면접질문.md,f\0\f0cdd15608fff2d7d511437d80949cf38f8fad3e
+Y
+)Dev/Sentry 를 이용한 로그 관리.md,a\9\a97de132bcce00ba6aae861b2e2cde0e22be3bdc
+o
+?Database/OneToOne 관계는 과연 지연로딩이 되는가.md,a\a\aac07e5dc8145158589cd3df86182dee964d48e3

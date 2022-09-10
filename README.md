@@ -65,7 +65,10 @@ URL 과 URI 의 차이<br>
 
 ## 📝 Database
 ### 이론
-[정규화에 대해서]()
+[database 기초]<br>
+[정규화에 대해서](https://github.com/YHLEE9753/Blog/blob/main/Database/%EC%A0%95%EA%B7%9C%ED%99%94%EC%97%90%20%EB%8C%80%ED%95%B4%EC%84%9C.md)<br>
+[index]<br>
+[transaction]<br>
 
 ### SQL
 inner join, outer join, in<br>
@@ -96,8 +99,9 @@ update 에서 bulk 연산<br>
 
 ## 📝 Dev
 [Jasypt 를 통한 정보 암호화](https://github.com/YHLEE9753/Blog/blob/main/Dev/Jasypt%20%EB%A5%BC%20%ED%86%B5%ED%95%9C%20%EC%A0%95%EB%B3%B4%20%EC%95%94%ED%98%B8%ED%99%94.md)<br>
-[Flyway 를 사용한 데이터베이스 형상관리]<br>
+[Flyway 를 사용한 데이터베이스 형상관리 - 추가 정리 필](https://github.com/YHLEE9753/Blog/blob/main/Dev/Flyway%20%EB%A5%BC%20%EC%82%AC%EC%9A%A9%ED%95%9C%20%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4%20%ED%98%95%EC%83%81%EA%B4%80%EB%A6%AC.md)<br>
 [Sentry 를 이용한 로그 관리](https://github.com/YHLEE9753/Blog/blob/main/Dev/Sentry%20%EB%A5%BC%20%EC%9D%B4%EC%9A%A9%ED%95%9C%20%EB%A1%9C%EA%B7%B8%20%EA%B4%80%EB%A6%AC.md)<br>
+Spring admin<br>
 
 ## 📝 Spring
 ### Spring 이해
@@ -146,6 +150,7 @@ Spring Security 에서 Cors 설정하기<br>
 [Spring RestDocs 와 Swagger 의 장단점]<br>
 [F.I.R.S.T 원칙]<br>
 [통합 테스트와 단위 테스트]<br>
+test container<br>
 @nested<br>
 
 
